@@ -1,11 +1,32 @@
-/node_modules
-/public/hot
-/public/storage
-/storage/*.key
-/vendor
-.env
-.phpunit.result.cache
-Homestead.json
-Homestead.yaml
+# Originate benhuang1024/.gitignore
+# other
+vendor/
+.vagrant
+
+# IDE
+.idea/
+.vscode
+nbproject/private/
+
+# JavaScript
+node_modules/
 npm-debug.log
 yarn-error.log
+
+# Laravel  & Lumen specific
+public/storage
+public/hot
+storage/*.key
+.env.*.php
+.env.php
+.env
+Homestead.yaml
+Homestead.json
+Envoy.blade.php
+tests/
+
+# Rocketeer PHP task runner and deployment package。
+.rocketeer/
+
+# Laravel Box
+samples/
