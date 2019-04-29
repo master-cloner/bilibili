@@ -600,7 +600,7 @@
                                 主站
                                 <!----></a><!----></li>
                         <li report-id="Webtab_click_audio" class="nav-item mbili"><a
-                                    href="//www.bilibili.com/audio/home/?type=10" target="_blank"
+                                    href="//www.clonebilibili.com/audio/home/?type=10" target="_blank"
                                     title="来探索bilibili音乐的世界吧~" class="t">音频</a></li>
                         <li report-id="playpage_game" class="nav-item game"><a href="//game.bilibili.com"
                                                                                target="_blank" title="游戏中心" class="t">游戏中心</a>
@@ -617,7 +617,7 @@
                         <li class="nav-item loc-menu"><a href="https://bml.bilibili.com/" target="_blank"
                                                          class="t">BML</a><!----></li>
                         <li class="nav-item loc-menu"><a
-                                    href="https://www.bilibili.com/blackboard/activity-zzUuaEaMR.html" target="_blank"
+                                    href="https://www.clonebilibili.com/blackboard/activity-zzUuaEaMR.html" target="_blank"
                                     class="t">70年</a><!----></li>
                         <li report-id="playpage_download" class="nav-item mobile"><i
                                     class="header-iconfont header-icon-Navbar_mobile b-icon-app"></i><a
@@ -634,7 +634,7 @@
                         <li class="nav-item profile-info"><a href="//passport.bilibili.com/login" class="t">
                                 <div class="i-face"><img src="//static.hdslb.com/images/akari.jpg" class="face"></div>
                             </a><!----></li>
-                        <li report-id="playpage_history" class="nav-item"><a href="//www.bilibili.com/account/history"
+                        <li report-id="playpage_history" class="nav-item"><a href="//www.clonebilibili.com/account/history"
                                                                              target="_blank" class="t">历史</a><!---->
                         </li>
                     </ul>
@@ -667,7 +667,7 @@
                             <div class="cancel"></div>
                         </li>
                     </ul>
-                    <a href="//www.bilibili.com/ranking" target="_blank" class="link-ranking"><span>排行榜</span></a></div>
+                    <a href="//www.clonebilibili.com/ranking" target="_blank" class="link-ranking"><span>排行榜</span></a></div>
                 <a href="//www.bilibili.com" class="head-logo"
                    style="background-image:url(//i0.hdslb.com/bfs/archive/f612c0b3c80c42aa2f00de067f4c11f0ef873ac1.png);"></a>
             </div>
@@ -680,189 +680,189 @@
                         </a>
                         <ul class="sub-nav"></ul>
                     </li>
-                    <li class=""><a href="//www.bilibili.com/v/douga/">
+                    <li class=""><a href="//www.clonebilibili.com/v/douga/">
                             <div class="num-wrap"><span>999+</span></div>
                             <div class="nav-name">动画</div>
                         </a>
                         <ul class="sub-nav">
-                            <li><a href="//www.bilibili.com/v/douga/mad/"><span>MAD·AMV</span></a></li>
-                            <li><a href="//www.bilibili.com/v/douga/mmd/"><span>MMD·3D</span></a></li>
-                            <li><a href="//www.bilibili.com/v/douga/voice/"><span>短片·手书·配音</span></a></li>
-                            <li><a href="//www.bilibili.com/v/douga/other/"><span>综合</span></a></li>
+                            <li><a href="//www.clonebilibili.com/v/douga/mad/"><span>MAD·AMV</span></a></li>
+                            <li><a href="//www.clonebilibili.com/v/douga/mmd/"><span>MMD·3D</span></a></li>
+                            <li><a href="//www.clonebilibili.com/v/douga/voice/"><span>短片·手书·配音</span></a></li>
+                            <li><a href="//www.clonebilibili.com/v/douga/other/"><span>综合</span></a></li>
                         </ul>
                     </li>
-                    <li class=""><a href="//www.bilibili.com/anime/">
+                    <li class=""><a href="//www.clonebilibili.com/anime/">
                             <div class="num-wrap"><span>154</span></div>
                             <div class="nav-name">番剧</div>
                         </a>
                         <ul class="sub-nav">
-                            <li><a href="//www.bilibili.com/v/anime/serial/"><span>连载动画</span></a></li>
-                            <li><a href="//www.bilibili.com/v/anime/finish/"><span>完结动画</span></a></li>
-                            <li><a href="//www.bilibili.com/v/anime/information/"><span>资讯</span></a></li>
-                            <li><a href="//www.bilibili.com/v/anime/offical/"><span>官方延伸</span></a></li>
-                            <li><a href="//www.bilibili.com/anime/timeline/"><span>新番时间表</span></a></li>
-                            <li><a href="//www.bilibili.com/anime/index/"><span>番剧索引</span></a></li>
+                            <li><a href="//www.clonebilibili.com/v/anime/serial/"><span>连载动画</span></a></li>
+                            <li><a href="//www.clonebilibili.com/v/anime/finish/"><span>完结动画</span></a></li>
+                            <li><a href="//www.clonebilibili.com/v/anime/information/"><span>资讯</span></a></li>
+                            <li><a href="//www.clonebilibili.com/v/anime/offical/"><span>官方延伸</span></a></li>
+                            <li><a href="//www.clonebilibili.com/anime/timeline/"><span>新番时间表</span></a></li>
+                            <li><a href="//www.clonebilibili.com/anime/index/"><span>番剧索引</span></a></li>
                         </ul>
                     </li>
-                    <li class=""><a href="//www.bilibili.com/guochuang/">
+                    <li class=""><a href="//www.clonebilibili.com/guochuang/">
                             <div class="num-wrap"><span>249</span></div>
                             <div class="nav-name">国创</div>
                         </a>
                         <ul class="sub-nav">
-                            <li><a href="//www.bilibili.com/v/guochuang/chinese/"><span>国产动画</span></a></li>
-                            <li><a href="//www.bilibili.com/v/guochuang/original/"><span>国产原创相关</span></a></li>
-                            <li><a href="//www.bilibili.com/v/guochuang/puppetry/"><span>布袋戏</span></a></li>
-                            <li><a href="//www.bilibili.com/v/guochuang/motioncomic/"><span>动态漫·广播剧</span></a></li>
-                            <li><a href="//www.bilibili.com/v/guochuang/information/"><span>资讯</span></a></li>
-                            <li><a href="//www.bilibili.com/guochuang/timeline/"><span>新番时间表</span></a></li>
-                            <li><a href="//www.bilibili.com/guochuang/index/"><span>国产动画索引</span></a></li>
+                            <li><a href="//www.clonebilibili.com/v/guochuang/chinese/"><span>国产动画</span></a></li>
+                            <li><a href="//www.clonebilibili.com/v/guochuang/original/"><span>国产原创相关</span></a></li>
+                            <li><a href="//www.clonebilibili.com/v/guochuang/puppetry/"><span>布袋戏</span></a></li>
+                            <li><a href="//www.clonebilibili.com/v/guochuang/motioncomic/"><span>动态漫·广播剧</span></a></li>
+                            <li><a href="//www.clonebilibili.com/v/guochuang/information/"><span>资讯</span></a></li>
+                            <li><a href="//www.clonebilibili.com/guochuang/timeline/"><span>新番时间表</span></a></li>
+                            <li><a href="//www.clonebilibili.com/guochuang/index/"><span>国产动画索引</span></a></li>
                         </ul>
                     </li>
-                    <li class=""><a href="//www.bilibili.com/v/music/">
+                    <li class=""><a href="//www.clonebilibili.com/v/music/">
                             <div class="num-wrap"><span>999+</span></div>
                             <div class="nav-name">音乐</div>
                         </a>
                         <ul class="sub-nav">
-                            <li><a href="//www.bilibili.com/v/music/original/"><span>原创音乐</span></a></li>
-                            <li><a href="//www.bilibili.com/v/music/cover/"><span>翻唱</span></a></li>
-                            <li><a href="//www.bilibili.com/v/music/vocaloid/"><span>VOCALOID·UTAU</span></a></li>
-                            <li><a href="//www.bilibili.com/v/music/electronic/"><span>电音</span></a></li>
-                            <li><a href="//www.bilibili.com/v/music/perform/"><span>演奏</span></a></li>
-                            <li><a href="//www.bilibili.com/v/music/mv/"><span>MV</span></a></li>
-                            <li><a href="//www.bilibili.com/v/music/live/"><span>音乐现场</span></a></li>
-                            <li><a href="//www.bilibili.com/v/music/other/"><span>音乐综合</span></a></li>
-                            <li><a href="//www.bilibili.com/audio/home?musicType=music"><span>音频</span></a></li>
+                            <li><a href="//www.clonebilibili.com/v/music/original/"><span>原创音乐</span></a></li>
+                            <li><a href="//www.clonebilibili.com/v/music/cover/"><span>翻唱</span></a></li>
+                            <li><a href="//www.clonebilibili.com/v/music/vocaloid/"><span>VOCALOID·UTAU</span></a></li>
+                            <li><a href="//www.clonebilibili.com/v/music/electronic/"><span>电音</span></a></li>
+                            <li><a href="//www.clonebilibili.com/v/music/perform/"><span>演奏</span></a></li>
+                            <li><a href="//www.clonebilibili.com/v/music/mv/"><span>MV</span></a></li>
+                            <li><a href="//www.clonebilibili.com/v/music/live/"><span>音乐现场</span></a></li>
+                            <li><a href="//www.clonebilibili.com/v/music/other/"><span>音乐综合</span></a></li>
+                            <li><a href="//www.clonebilibili.com/audio/home?musicType=music"><span>音频</span></a></li>
                         </ul>
                     </li>
-                    <li class=""><a href="//www.bilibili.com/v/dance/">
+                    <li class=""><a href="//www.clonebilibili.com/v/dance/">
                             <div class="num-wrap"><span>656</span></div>
                             <div class="nav-name">舞蹈</div>
                         </a>
                         <ul class="sub-nav">
-                            <li><a href="//www.bilibili.com/v/dance/otaku/"><span>宅舞</span></a></li>
-                            <li><a href="//www.bilibili.com/v/dance/three_d/"><span>三次元舞蹈</span></a></li>
-                            <li><a href="//www.bilibili.com/v/dance/demo/"><span>舞蹈教程</span></a></li>
+                            <li><a href="//www.clonebilibili.com/v/dance/otaku/"><span>宅舞</span></a></li>
+                            <li><a href="//www.clonebilibili.com/v/dance/three_d/"><span>三次元舞蹈</span></a></li>
+                            <li><a href="//www.clonebilibili.com/v/dance/demo/"><span>舞蹈教程</span></a></li>
                         </ul>
                     </li>
-                    <li class=""><a href="//www.bilibili.com/v/game/">
+                    <li class=""><a href="//www.clonebilibili.com/v/game/">
                             <div class="num-wrap"><span>999+</span></div>
                             <div class="nav-name">游戏</div>
                         </a>
                         <ul class="sub-nav">
-                            <li><a href="//www.bilibili.com/v/game/stand_alone/"><span>单机游戏</span></a></li>
-                            <li><a href="//www.bilibili.com/v/game/esports/"><span>电子竞技</span></a></li>
-                            <li><a href="//www.bilibili.com/v/game/mobile/"><span>手机游戏</span></a></li>
-                            <li><a href="//www.bilibili.com/v/game/online/"><span>网络游戏</span></a></li>
-                            <li><a href="//www.bilibili.com/v/game/board/"><span>桌游棋牌</span></a></li>
-                            <li><a href="//www.bilibili.com/v/game/gmv/"><span>GMV</span></a></li>
-                            <li><a href="//www.bilibili.com/v/game/music/"><span>音游</span></a></li>
-                            <li><a href="//www.bilibili.com/v/game/mugen/"><span>Mugen</span></a></li>
-                            <li><a href="//www.bilibili.com/v/game/match/"><span>游戏赛事</span></a></li>
+                            <li><a href="//www.clonebilibili.com/v/game/stand_alone/"><span>单机游戏</span></a></li>
+                            <li><a href="//www.clonebilibili.com/v/game/esports/"><span>电子竞技</span></a></li>
+                            <li><a href="//www.clonebilibili.com/v/game/mobile/"><span>手机游戏</span></a></li>
+                            <li><a href="//www.clonebilibili.com/v/game/online/"><span>网络游戏</span></a></li>
+                            <li><a href="//www.clonebilibili.com/v/game/board/"><span>桌游棋牌</span></a></li>
+                            <li><a href="//www.clonebilibili.com/v/game/gmv/"><span>GMV</span></a></li>
+                            <li><a href="//www.clonebilibili.com/v/game/music/"><span>音游</span></a></li>
+                            <li><a href="//www.clonebilibili.com/v/game/mugen/"><span>Mugen</span></a></li>
+                            <li><a href="//www.clonebilibili.com/v/game/match/"><span>游戏赛事</span></a></li>
                         </ul>
                     </li>
-                    <li class=""><a href="//www.bilibili.com/v/technology/">
+                    <li class=""><a href="//www.clonebilibili.com/v/technology/">
                             <div class="num-wrap"><span>999+</span></div>
                             <div class="nav-name">科技</div>
                         </a>
                         <ul class="sub-nav">
-                            <li><a href="//www.bilibili.com/v/technology/fun/"><span>趣味科普人文</span></a></li>
-                            <li><a href="//www.bilibili.com/v/technology/wild/"><span>野生技术协会</span></a></li>
-                            <li><a href="//www.bilibili.com/v/technology/speech_course/"><span>演讲·公开课</span></a></li>
-                            <li><a href="//www.bilibili.com/v/technology/military/"><span>星海</span></a></li>
-                            <li><a href="//www.bilibili.com/v/technology/mechanical/"><span>机械</span></a></li>
-                            <li><a href="//www.bilibili.com/v/technology/automobile/"><span>汽车</span></a></li>
+                            <li><a href="//www.clonebilibili.com/v/technology/fun/"><span>趣味科普人文</span></a></li>
+                            <li><a href="//www.clonebilibili.com/v/technology/wild/"><span>野生技术协会</span></a></li>
+                            <li><a href="//www.clonebilibili.com/v/technology/speech_course/"><span>演讲·公开课</span></a></li>
+                            <li><a href="//www.clonebilibili.com/v/technology/military/"><span>星海</span></a></li>
+                            <li><a href="//www.clonebilibili.com/v/technology/mechanical/"><span>机械</span></a></li>
+                            <li><a href="//www.clonebilibili.com/v/technology/automobile/"><span>汽车</span></a></li>
                         </ul>
                     </li>
-                    <li class=""><a href="//www.bilibili.com/v/digital/">
+                    <li class=""><a href="//www.clonebilibili.com/v/digital/">
                             <div class="num-wrap"><span>999+</span></div>
                             <div class="nav-name">数码</div>
                         </a>
                         <ul class="sub-nav">
-                            <li><a href="//www.bilibili.com/v/digital/mobile/"><span>手机平板</span></a></li>
-                            <li><a href="//www.bilibili.com/v/digital/pc/"><span>电脑装机</span></a></li>
-                            <li><a href="//www.bilibili.com/v/digital/photography/"><span>摄影摄像</span></a></li>
-                            <li><a href="//www.bilibili.com/v/digital/intelligence_av/"><span>影音智能</span></a></li>
+                            <li><a href="//www.clonebilibili.com/v/digital/mobile/"><span>手机平板</span></a></li>
+                            <li><a href="//www.clonebilibili.com/v/digital/pc/"><span>电脑装机</span></a></li>
+                            <li><a href="//www.clonebilibili.com/v/digital/photography/"><span>摄影摄像</span></a></li>
+                            <li><a href="//www.clonebilibili.com/v/digital/intelligence_av/"><span>影音智能</span></a></li>
                         </ul>
                     </li>
-                    <li class=""><a href="//www.bilibili.com/v/life/">
+                    <li class=""><a href="//www.clonebilibili.com/v/life/">
                             <div class="num-wrap"><span>999+</span></div>
                             <div class="nav-name">生活</div>
                         </a>
                         <ul class="sub-nav">
-                            <li><a href="//www.bilibili.com/v/life/funny/"><span>搞笑</span></a></li>
-                            <li><a href="//www.bilibili.com/v/life/daily/"><span>日常</span></a></li>
-                            <li><a href="//www.bilibili.com/v/life/food/"><span>美食圈</span></a></li>
-                            <li><a href="//www.bilibili.com/v/life/animal/"><span>动物圈</span></a></li>
-                            <li><a href="//www.bilibili.com/v/life/handmake/"><span>手工</span></a></li>
-                            <li><a href="//www.bilibili.com/v/life/painting/"><span>绘画</span></a></li>
-                            <li><a href="//www.bilibili.com/v/life/sports/"><span>运动</span></a></li>
-                            <li><a href="//www.bilibili.com/v/life/other/"><span>其他</span></a></li>
+                            <li><a href="//www.clonebilibili.com/v/life/funny/"><span>搞笑</span></a></li>
+                            <li><a href="//www.clonebilibili.com/v/life/daily/"><span>日常</span></a></li>
+                            <li><a href="//www.clonebilibili.com/v/life/food/"><span>美食圈</span></a></li>
+                            <li><a href="//www.clonebilibili.com/v/life/animal/"><span>动物圈</span></a></li>
+                            <li><a href="//www.clonebilibili.com/v/life/handmake/"><span>手工</span></a></li>
+                            <li><a href="//www.clonebilibili.com/v/life/painting/"><span>绘画</span></a></li>
+                            <li><a href="//www.clonebilibili.com/v/life/sports/"><span>运动</span></a></li>
+                            <li><a href="//www.clonebilibili.com/v/life/other/"><span>其他</span></a></li>
                         </ul>
                     </li>
-                    <li class=""><a href="//www.bilibili.com/v/kichiku/">
+                    <li class=""><a href="//www.clonebilibili.com/v/kichiku/">
                             <div class="num-wrap"><span>185</span></div>
                             <div class="nav-name">鬼畜</div>
                         </a>
                         <ul class="sub-nav">
-                            <li><a href="//www.bilibili.com/v/kichiku/guide/"><span>鬼畜调教</span></a></li>
-                            <li><a href="//www.bilibili.com/v/kichiku/mad/"><span>音MAD</span></a></li>
-                            <li><a href="//www.bilibili.com/v/kichiku/manual_vocaloid/"><span>人力VOCALOID</span></a></li>
-                            <li><a href="//www.bilibili.com/v/kichiku/course/"><span>教程演示</span></a></li>
+                            <li><a href="//www.clonebilibili.com/v/kichiku/guide/"><span>鬼畜调教</span></a></li>
+                            <li><a href="//www.clonebilibili.com/v/kichiku/mad/"><span>音MAD</span></a></li>
+                            <li><a href="//www.clonebilibili.com/v/kichiku/manual_vocaloid/"><span>人力VOCALOID</span></a></li>
+                            <li><a href="//www.clonebilibili.com/v/kichiku/course/"><span>教程演示</span></a></li>
                         </ul>
                     </li>
-                    <li class=""><a href="//www.bilibili.com/v/fashion/">
+                    <li class=""><a href="//www.clonebilibili.com/v/fashion/">
                             <div class="num-wrap"><span>999+</span></div>
                             <div class="nav-name">时尚</div>
                         </a>
                         <ul class="sub-nav">
-                            <li><a href="//www.bilibili.com/v/fashion/makeup/"><span>美妆</span></a></li>
-                            <li><a href="//www.bilibili.com/v/fashion/clothing/"><span>服饰</span></a></li>
-                            <li><a href="//www.bilibili.com/v/fashion/aerobics/"><span>健身</span></a></li>
-                            <li><a href="//www.bilibili.com/v/fashion/catwalk/"><span>T台</span></a></li>
-                            <li><a href="//www.bilibili.com/v/fashion/trends/"><span>风尚标</span></a></li>
+                            <li><a href="//www.clonebilibili.com/v/fashion/makeup/"><span>美妆</span></a></li>
+                            <li><a href="//www.clonebilibili.com/v/fashion/clothing/"><span>服饰</span></a></li>
+                            <li><a href="//www.clonebilibili.com/v/fashion/aerobics/"><span>健身</span></a></li>
+                            <li><a href="//www.clonebilibili.com/v/fashion/catwalk/"><span>T台</span></a></li>
+                            <li><a href="//www.clonebilibili.com/v/fashion/trends/"><span>风尚标</span></a></li>
                         </ul>
                     </li>
-                    <li class=""><a href="//www.bilibili.com/v/ad/ad/">
+                    <li class=""><a href="//www.clonebilibili.com/v/ad/ad/">
                             <div class="num-wrap"><span>297</span></div>
                             <div class="nav-name">广告</div>
                         </a>
                         <ul class="sub-nav"><!----></ul>
                     </li>
-                    <li class=""><a href="//www.bilibili.com/v/ent/">
+                    <li class=""><a href="//www.clonebilibili.com/v/ent/">
                             <div class="num-wrap"><span>999+</span></div>
                             <div class="nav-name">娱乐</div>
                         </a>
                         <ul class="sub-nav">
-                            <li><a href="//www.bilibili.com/v/ent/variety/"><span>综艺</span></a></li>
-                            <li><a href="//www.bilibili.com/v/ent/star/"><span>明星</span></a></li>
-                            <li><a href="//www.bilibili.com/v/ent/korea/"><span>Korea相关</span></a></li>
+                            <li><a href="//www.clonebilibili.com/v/ent/variety/"><span>综艺</span></a></li>
+                            <li><a href="//www.clonebilibili.com/v/ent/star/"><span>明星</span></a></li>
+                            <li><a href="//www.clonebilibili.com/v/ent/korea/"><span>Korea相关</span></a></li>
                         </ul>
                     </li>
-                    <li class=""><a href="//www.bilibili.com/v/cinephile/">
+                    <li class=""><a href="//www.clonebilibili.com/v/cinephile/">
                             <div class="num-wrap"><span>999+</span></div>
                             <div class="nav-name">影视</div>
                         </a>
                         <ul class="sub-nav">
-                            <li><a href="//www.bilibili.com/v/cinephile/cinecism/"><span>影视杂谈</span></a></li>
-                            <li><a href="//www.bilibili.com/v/cinephile/montage/"><span>影视剪辑</span></a></li>
-                            <li><a href="//www.bilibili.com/v/cinephile/shortfilm/"><span>短片</span></a></li>
-                            <li><a href="//www.bilibili.com/v/cinephile/trailer_info/"><span>预告·资讯</span></a></li>
-                            <li><a href="//www.bilibili.com/v/cinephile/tokusatsu/"><span>特摄</span></a></li>
+                            <li><a href="//www.clonebilibili.com/v/cinephile/cinecism/"><span>影视杂谈</span></a></li>
+                            <li><a href="//www.clonebilibili.com/v/cinephile/montage/"><span>影视剪辑</span></a></li>
+                            <li><a href="//www.clonebilibili.com/v/cinephile/shortfilm/"><span>短片</span></a></li>
+                            <li><a href="//www.clonebilibili.com/v/cinephile/trailer_info/"><span>预告·资讯</span></a></li>
+                            <li><a href="//www.clonebilibili.com/v/cinephile/tokusatsu/"><span>特摄</span></a></li>
                         </ul>
                     </li>
-                    <li class=""><a href="//www.bilibili.com/cinema/">
+                    <li class=""><a href="//www.clonebilibili.com/cinema/">
                             <div class="num-wrap"><span>450</span></div>
                             <div class="nav-name">放映厅</div>
                         </a>
                         <ul class="sub-nav">
-                            <li><a href="//www.bilibili.com/documentary/"><span>纪录片</span></a></li>
-                            <li><a href="//www.bilibili.com/movie/"><span>电影</span></a></li>
-                            <li><a href="//www.bilibili.com/tv/"><span>电视剧</span></a></li>
+                            <li><a href="//www.clonebilibili.com/documentary/"><span>纪录片</span></a></li>
+                            <li><a href="//www.clonebilibili.com/movie/"><span>电影</span></a></li>
+                            <li><a href="//www.clonebilibili.com/tv/"><span>电视剧</span></a></li>
                         </ul>
                     </li>
-                    <li class="side-nav zl"><a href="//www.bilibili.com/read/home" class="side-link"><i
+                    <li class="side-nav zl"><a href="//www.clonebilibili.com/read/home" class="side-link"><i
                                     class="zhuanlan"></i><span>专栏</span></a></li>
-                    <li class="side-nav nav-square"><a href="//www.bilibili.com/blackboard/x/act_list"
+                    <li class="side-nav nav-square"><a href="//www.clonebilibili.com/blackboard/x/act_list"
                                                        class="side-link"><i class="square"></i><span>广场</span></a>
                         <div class="sub-nav square-wrap">
                             <ul>
@@ -872,7 +872,7 @@
                                                 class="icon-prim icon-game"></i><span>游戏中心</span></a></li>
                                 <li><a href="http://h.bilibili.com"><i class="icon-prim icon-hy"></i><span>画友</span></a>
                                 </li>
-                                <li><a href="//www.bilibili.com/mango"><i
+                                <li><a href="//www.clonebilibili.com/mango"><i
                                                 class="icon-prim icon-mango"></i><span>芒果TV</span></a></li>
                             </ul>
                             <div class="square-field"></div>
@@ -900,7 +900,7 @@
                                 </li>
                             </ul><!----></div>
                     </li>
-                    <li class="side-nav"><a href="//www.bilibili.com/blackroom/" class="side-link"><i
+                    <li class="side-nav"><a href="//www.clonebilibili.com/blackroom/" class="side-link"><i
                                     class="blackroom"></i><span>小黑屋</span></a></li>
                 </ul>
                 <div class="gif-menu nav-gif"><a
@@ -925,53 +925,53 @@
                     <div class="panel">
                         <ul class="pic" style="width: 500%; margin-left: -400%;">
                             <li data-id="272480" data-loc-id="23" class="scrollx off"><a
-                                        href="https://www.bilibili.com/blackboard/activity-xs99lu-Qs.html"
+                                        href="https://www.clonebilibili.com/blackboard/activity-xs99lu-Qs.html"
                                         target="_blank"><img onload="reportfs()"
                                                              src="//i0.hdslb.com/bfs/archive/25134baa5c3c7c76202e0a00939e06c5ecadd31d.jpg@880w_440h.jpg"
                                                              alt="" width="440" height="220"></a><a
-                                        href="//www.bilibili.com/blackboard/topic_list.html" target="_blank"
+                                        href="//www.clonebilibili.com/blackboard/topic_list.html" target="_blank"
                                         class="more-text">更多</a></li>
                             <li data-id="0" data-loc-id="23" class="scrollx off"><a
                                         href="//cm.bilibili.com/cm/api/fees/pc/sync/v2?msg=a%7C25%2Cb%7Cbilibili%2Cc%7C1%2Cd%7C1%2Ce%7CCO2gAhAAGNWxASAAKAAw%2Fh84GUIeMTU1NjU1MDUwMTAxMHExNzJhMjJhNThhMjFxMjQ2SJKFj82mLVIAWgbkuIrmtbdiBuS4reWbvWgBcAB4gICAgOAMgAEAiAG5K5IBDjEwMS4yMjQuNjYuMTkxmgG8BGFsbDpkZWZhdWx0LGVjcG06ZGVmYXVsdCxjcGNUYWdGaWx0ZXI6dW5kZWZpbmVkLGVuaGFuY2VDdHJRRmFjdG9yOmRlZmF1bHQsYWRNZWNoYW5pc21Nb25pdG9yOm90aGVyLHBsYXlwYWdlY3RyOmVuYWJsZSx1cF9yZWNfZmxvd19jb250cm9sOnVuZGVmaW5lZCxicnVzaF9kdXBsaWNhdGU6ZGVmYXVsdCxwY3RyX2NwbTpjcG0scGN0cl92Mjpscl9zZWdtZW50LGR5bmFtaWNfZmxvd19jb250cm9sOnNwbGl0IHRoZSBmbG93IGJ5IG1pZCxwY3ZyOmJvdGhfYV8xX2JfMC4wNV9jXzFfZl8xXzEuNSxmcmVxTGltaXQ6ZGVmYXVsdCxzbWFsbENvbnN1bWVVbml0OmRlZmF1bHQsb3V0ZXJCZWF0SW5uZXI6ZGVmYXVsdCxvdXRlclF1aXQ6ZGVmYXVsdCxmZHNfcnR0OmRlZmF1bHQsY3BhOmNwYSxpbmRpc19VVjp1bmRlZmluZWQsaGFzaF9pbmRpc19VVjp1bmRlZmluZWQsZG1wX2FnZV9nZW5kZXJfZXhwOnVuZGVmaW5lZCxmZWVkc19yYW5kb21fcmVzdWx0OmRlZmF1bHQsZmxvd19yYXRpb19jaGVjazpyMixiYXNlX2hhc2hfaW5kaXNfVVY6dW5kZWZpbmVkLGRtcF9idXNpbmVzc19pbnRlcmVzdF9leHA6dW5kZWZpbmVkoAEAqAEAsgEghTWQkFgGCY1Jjp36nNMT4csZnwKjd%2FQQraElHu8McE66ASlodHRwczovL2FjY291bnQuYmlsaWJpbGkuY29tL2FjY291bnQvYmlnL8IBANIBANgBZuABAOgBAPABAPgBAIACAIgCALgCAMACAMgCANACANgCAOoCAA%3D%3D%2Cf%7Cclick_sync_3%2Cg%7C1%2Ch%7C2%2Ci%7C%2Cj%7C%2Ck%7C1556550548942%2Cl%7C23%2Cm%7C1556550503621%2Cn%7C1%2Co%7C&amp;ts=1556550548942"
                                         target="_blank" data-target-url="https://account.bilibili.com/account/big/"><img
                                             src="https://i0.hdslb.com/bfs/sycp/creative_img/201904/d8c49d0dbb8c4182916b590c81228bc9.jpg@880w_440h.jpg"
                                             alt="大会员连续包年上线啦！" width="440" height="220"></a><a
-                                        href="//www.bilibili.com/blackboard/topic_list.html" target="_blank"
+                                        href="//www.clonebilibili.com/blackboard/topic_list.html" target="_blank"
                                         class="more-text">更多</a></li>
                             <li data-id="270657" data-loc-id="23" class="scrollx off"><a
-                                        href="https://www.bilibili.com/bangumi/play/ep270599" target="_blank"
-                                        data-target-url="https://www.bilibili.com/bangumi/play/ep270599"><img
+                                        href="https://www.clonebilibili.com/bangumi/play/ep270599" target="_blank"
+                                        data-target-url="https://www.clonebilibili.com/bangumi/play/ep270599"><img
                                             src="//i0.hdslb.com/bfs/archive/87e3c8cf92a4c5d3f814fdfa3729f87e60e3343b.jpg@880w_440h.jpg"
                                             alt="" width="440" height="220"></a><a
-                                        href="//www.bilibili.com/blackboard/topic_list.html" target="_blank"
+                                        href="//www.clonebilibili.com/blackboard/topic_list.html" target="_blank"
                                         class="more-text">更多</a></li>
                             <li data-id="272582" data-loc-id="23" class="scrollx off"><a
-                                        href="https://www.bilibili.com/read/cv2543293" target="_blank"><img
+                                        href="https://www.clonebilibili.com/read/cv2543293" target="_blank"><img
                                             src="//i0.hdslb.com/bfs/archive/943f6fe27182859b241438d96200c39ccb010b21.jpg@880w_440h.webp"
                                             alt="" width="440" height="220"></a><a
-                                        href="//www.bilibili.com/blackboard/topic_list.html" target="_blank"
+                                        href="//www.clonebilibili.com/blackboard/topic_list.html" target="_blank"
                                         class="more-text">更多</a></li>
                             <li data-id="272597" data-loc-id="23" class="scrollx on"><a
-                                        href="https://www.bilibili.com/blackboard/topic/activity-9AYRb0AvS.html"
+                                        href="https://www.clonebilibili.com/blackboard/topic/activity-9AYRb0AvS.html"
                                         target="_blank"><img
                                             src="//i0.hdslb.com/bfs/archive/9b9834b6e92f7d097aa85dd0d169ae80a5dcd710.jpg@880w_440h.webp"
                                             alt="" width="440" height="220"></a><a
-                                        href="//www.bilibili.com/blackboard/topic_list.html" target="_blank"
+                                        href="//www.clonebilibili.com/blackboard/topic_list.html" target="_blank"
                                         class="more-text">更多</a></li>
                         </ul>
-                        <ul class="title"><a href="https://www.bilibili.com/blackboard/activity-xs99lu-Qs.html"
+                        <ul class="title"><a href="https://www.clonebilibili.com/blackboard/activity-xs99lu-Qs.html"
                                              target="_blank" class=""><!---->
                                 致敬漫威精彩11年
                             </a><a href="//cm.bilibili.com/cm/api/fees/pc/sync/v2?msg=a%7C25%2Cb%7Cbilibili%2Cc%7C1%2Cd%7C1%2Ce%7CCO2gAhAAGNWxASAAKAAw%2Fh84GUIeMTU1NjU1MDUwMTAxMHExNzJhMjJhNThhMjFxMjQ2SJKFj82mLVIAWgbkuIrmtbdiBuS4reWbvWgBcAB4gICAgOAMgAEAiAG5K5IBDjEwMS4yMjQuNjYuMTkxmgG8BGFsbDpkZWZhdWx0LGVjcG06ZGVmYXVsdCxjcGNUYWdGaWx0ZXI6dW5kZWZpbmVkLGVuaGFuY2VDdHJRRmFjdG9yOmRlZmF1bHQsYWRNZWNoYW5pc21Nb25pdG9yOm90aGVyLHBsYXlwYWdlY3RyOmVuYWJsZSx1cF9yZWNfZmxvd19jb250cm9sOnVuZGVmaW5lZCxicnVzaF9kdXBsaWNhdGU6ZGVmYXVsdCxwY3RyX2NwbTpjcG0scGN0cl92Mjpscl9zZWdtZW50LGR5bmFtaWNfZmxvd19jb250cm9sOnNwbGl0IHRoZSBmbG93IGJ5IG1pZCxwY3ZyOmJvdGhfYV8xX2JfMC4wNV9jXzFfZl8xXzEuNSxmcmVxTGltaXQ6ZGVmYXVsdCxzbWFsbENvbnN1bWVVbml0OmRlZmF1bHQsb3V0ZXJCZWF0SW5uZXI6ZGVmYXVsdCxvdXRlclF1aXQ6ZGVmYXVsdCxmZHNfcnR0OmRlZmF1bHQsY3BhOmNwYSxpbmRpc19VVjp1bmRlZmluZWQsaGFzaF9pbmRpc19VVjp1bmRlZmluZWQsZG1wX2FnZV9nZW5kZXJfZXhwOnVuZGVmaW5lZCxmZWVkc19yYW5kb21fcmVzdWx0OmRlZmF1bHQsZmxvd19yYXRpb19jaGVjazpyMixiYXNlX2hhc2hfaW5kaXNfVVY6dW5kZWZpbmVkLGRtcF9idXNpbmVzc19pbnRlcmVzdF9leHA6dW5kZWZpbmVkoAEAqAEAsgEghTWQkFgGCY1Jjp36nNMT4csZnwKjd%2FQQraElHu8McE66ASlodHRwczovL2FjY291bnQuYmlsaWJpbGkuY29tL2FjY291bnQvYmlnL8IBANIBANgBZuABAOgBAPABAPgBAIACAIgCALgCAMACAMgCANACANgCAOoCAA%3D%3D%2Cf%7Cclick_sync_3%2Cg%7C1%2Ch%7C2%2Ci%7C%2Cj%7C%2Ck%7C1556550548943%2Cl%7C23%2Cm%7C1556550503621%2Cn%7C1%2Co%7C&amp;ts=1556550548943"
                                    target="_blank" class="" data-target-url="https://account.bilibili.com/account/big/"><img
                                         src="//s1.hdslb.com/bfs/static/jinkela/home/asserts/cm_2.png" class="gg-pic">
                                 大会员连续包年上线啦！
-                            </a><a href="https://www.bilibili.com/bangumi/play/ep270599" target="_blank" class=""
-                                   data-target-url="https://www.bilibili.com/bangumi/play/ep270599"><!---->
+                            </a><a href="https://www.clonebilibili.com/bangumi/play/ep270599" target="_blank" class=""
+                                   data-target-url="https://www.clonebilibili.com/bangumi/play/ep270599"><!---->
                                 跟着山下智博去飙车！
-                            </a><a href="https://www.bilibili.com/read/cv2543293" target="_blank" class=""><!---->
+                            </a><a href="https://www.clonebilibili.com/read/cv2543293" target="_blank" class=""><!---->
                                 用音乐回忆平成吧
-                            </a><a href="https://www.bilibili.com/blackboard/topic/activity-9AYRb0AvS.html"
+                            </a><a href="https://www.clonebilibili.com/blackboard/topic/activity-9AYRb0AvS.html"
                                    target="_blank" class="on"><!---->
                                 有你的四月来了！
                             </a></ul>
@@ -1072,8 +1072,8 @@
                 <div class="storey-box clearfix"><!---->
                     <div class="spread-server-split-start" style="display:none"></div>
                     <div data-id="273501" data-loc-id="34" class="spread-module"><a
-                                href="//www.bilibili.com/video/av50665023/" target="_blank"
-                                data-target-url="http://www.bilibili.com/video/av50665023">
+                                href="//www.clonebilibili.com/video/av50665023/" target="_blank"
+                                data-target-url="http://www.clonebilibili.com/video/av50665023">
                             <div class="pic"><img
                                         src="//i0.hdslb.com/bfs/archive/24d22bb90bd955ba407e88d093d760155668afcc.jpg@160w_100h.jpg"
                                         alt="北京世园会即将开幕 带你先睹为快！" width="160" height="100">
@@ -1087,7 +1087,7 @@
                             </div>
                             <p title="北京世园会即将开幕 带你先睹为快！" class="t">北京世园会即将开幕 带你先睹为快！</p></a></div>
                     <div data-id="272648" data-loc-id="34" class="spread-module"><a
-                                href="//www.bilibili.com/video/av50508870" target="_blank">
+                                href="//www.clonebilibili.com/video/av50508870" target="_blank">
                             <div class="pic"><img
                                         src="//i0.hdslb.com/bfs/archive/a98eea8f9d775c79b03b0c0a9a688388c5e67b85.jpg@160w_100h.jpg"
                                         alt="请问您今天要来点系统提示音吗？" width="160" height="100">
@@ -1101,8 +1101,8 @@
                             </div>
                             <p title="请问您今天要来点系统提示音吗？" class="t">请问您今天要来点系统提示音吗？</p></a></div>
                     <div data-id="273502" data-loc-id="34" class="spread-module"><a
-                                href="//www.bilibili.com/video/av50743972/" target="_blank"
-                                data-target-url="http://www.bilibili.com/video/av50743972">
+                                href="//www.clonebilibili.com/video/av50743972/" target="_blank"
+                                data-target-url="http://www.clonebilibili.com/video/av50743972">
                             <div class="pic"><img
                                         src="//i0.hdslb.com/bfs/archive/964f0510843875ea438ce29d8a6df88738870614.jpg@160w_100h.jpg"
                                         alt="世园会国际馆的拍照攻略都在这儿了，跟着Nathan玩起来吧！" width="160" height="100">
@@ -1117,7 +1117,7 @@
                             <p title="世园会国际馆的拍照攻略都在这儿了，跟着Nathan玩起来吧！" class="t">世园会国际馆的拍照攻略都在这儿了，跟着Nathan玩起来吧！</p></a>
                     </div>
                     <div data-id="272792" data-loc-id="34" class="spread-module"><a
-                                href="//www.bilibili.com/video/av50785200" target="_blank">
+                                href="//www.clonebilibili.com/video/av50785200" target="_blank">
                             <div class="pic"><img
                                         src="//i0.hdslb.com/bfs/archive/cffdadb6d816815fc300f53101fcfab8895b2dd3.jpg@160w_100h.jpg"
                                         alt="周刊哔哩哔哩排行榜#462" width="160" height="100">
@@ -1131,7 +1131,7 @@
                             </div>
                             <p title="周刊哔哩哔哩排行榜#462" class="t">周刊哔哩哔哩排行榜#462</p></a></div>
                     <div data-id="273503" data-loc-id="34" class="spread-module"><a
-                                href="//www.bilibili.com/video/av50233838" target="_blank">
+                                href="//www.clonebilibili.com/video/av50233838" target="_blank">
                             <div class="pic"><img
                                         src="//i0.hdslb.com/bfs/archive/c32467564006b31f1098c5cfafadeef518d0fd20.jpg@160w_100h.jpg"
                                         alt="#魅力世园# 世园会来了！等等，世什么会？什么园会？世园什么？一段视频，给你安排得明明白白↓" width="160" height="100">
@@ -1149,11 +1149,11 @@
                 </div>
             </div>
             <div class="r-con">
-                <div class="online"><a href="//www.bilibili.com/video/online.html" target="_blank" title="在线观看：6968115">在线人数：5188161</a><em></em><a
-                            href="//www.bilibili.com/newlist.html" target="_blank">最新投稿：80239</a></div>
+                <div class="online"><a href="//www.clonebilibili.com/video/online.html" target="_blank" title="在线观看：6968115">在线人数：5188161</a><em></em><a
+                            href="//www.clonebilibili.com/newlist.html" target="_blank">最新投稿：80239</a></div>
                 <div data-id="271576" data-loc-id="29" class="adpos"><a target="_blank"
-                                                                        href="https://www.bilibili.com/read/cv2500511"
-                                                                        data-target-url="https://www.bilibili.com/read/cv2500511"><img
+                                                                        href="https://www.clonebilibili.com/read/cv2500511"
+                                                                        data-target-url="https://www.clonebilibili.com/read/cv2500511"><img
                                 src="//i0.hdslb.com/bfs/archive/268570870acc08fc9a8bb653c6638bfa435d3ed6.jpg" alt=""
                                 width="260" height="150" class="pic"><!----></a></div>
             </div>
@@ -1414,7 +1414,7 @@
                                                                 src="https://i0.hdslb.com/bfs/live/e1ad98cfdef36516bf9f8e5d5c80ff8fb88b9df1.png@260w_248h.webp"
                                                                 width="260" height="248"></a><!----></li>
                                                 <li class="scrollx on"><a
-                                                            href="https://www.bilibili.com/blackboard/live/activity-MUSICLIVE-3.html"
+                                                            href="https://www.clonebilibili.com/blackboard/live/activity-MUSICLIVE-3.html"
                                                             target="_blank"><img
                                                                 src="https://i0.hdslb.com/bfs/live/dcedacc2a8babff45146c6e56e1cb08ab6ebaad4.png@260w_248h.webp"
                                                                 width="260" height="248"></a><!----></li>
@@ -1423,7 +1423,7 @@
                                                         href="https://live.bilibili.com/blackboard/sakura-2019-web.html"
                                                         target="_blank" class=""><!---->
                                                     樱花奖金持续升级！
-                                                </a><a href="https://www.bilibili.com/blackboard/live/activity-MUSICLIVE-3.html"
+                                                </a><a href="https://www.clonebilibili.com/blackboard/live/activity-MUSICLIVE-3.html"
                                                        target="_blank" class="on"><!---->
                                                     MUSIC LIVE！总选进行时
                                                 </a></ul>
@@ -1697,7 +1697,7 @@
                 <div class="up clearfix">
                     <div class="bangumi-timing-module l-con">
                         <div class="headline clearfix"><i class="icon icon_t icon-bangumi"></i><a
-                                    href="//www.bilibili.com/anime/" class="name">番剧</a>
+                                    href="//www.clonebilibili.com/anime/" class="name">番剧</a>
                             <div class="bili-tab">
                                 <div class="bili-tab-item on">最新</div>
                                 <div class="bili-tab-item">一</div>
@@ -1708,213 +1708,213 @@
                                 <div class="bili-tab-item">六</div>
                                 <div class="bili-tab-item">日</div>
                             </div>
-                            <a href="//www.bilibili.com/anime/timeline/" target="_blank" class="c-clink">
+                            <a href="//www.clonebilibili.com/anime/timeline/" target="_blank" class="c-clink">
                                 新番时间表<i class="icon"></i></a></div>
                         <div class="timing-box custom-scrollbar clearfix ">
                             <div class="card-timing-module clearfix card-timing"><a
-                                        href="//www.bilibili.com/bangumi/play/ss26146/" target="_blank" title="多罗罗"
+                                        href="//www.clonebilibili.com/bangumi/play/ss26146/" target="_blank" title="多罗罗"
                                         class="pic">
                                     <div class="lazy-img"><img alt="多罗罗"
                                                                src="//i0.hdslb.com/bfs/bangumi/966544071d5bfcf1d244bad7f6ce623310407db9.jpg@144w_144h.webp">
                                     </div>
                                 </a>
-                                <div class="r-text"><a href="//www.bilibili.com/bangumi/play/ss26146/" target="_blank"
+                                <div class="r-text"><a href="//www.clonebilibili.com/bangumi/play/ss26146/" target="_blank"
                                                        title="多罗罗" class="t"
                                                        style="-webkit-box-orient: vertical;">多罗罗</a>
-                                    <p class="update"><a href="//www.bilibili.com/bangumi/play/ep259714/"
+                                    <p class="update"><a href="//www.clonebilibili.com/bangumi/play/ep259714/"
                                                          target="_blank" class="published">第16话</a></p></div>
                             </div>
                             <div class="card-timing-module clearfix card-timing"><a
-                                        href="//www.bilibili.com/bangumi/play/ss23882/" target="_blank" title="智龙迷城"
+                                        href="//www.clonebilibili.com/bangumi/play/ss23882/" target="_blank" title="智龙迷城"
                                         class="pic">
                                     <div class="lazy-img"><img alt="智龙迷城"
                                                                src="//i0.hdslb.com/bfs/bangumi/4143c286982fd8f9ad467af7b6e4a74aaee1c026.jpg@144w_144h.webp">
                                     </div>
                                 </a>
-                                <div class="r-text"><a href="//www.bilibili.com/bangumi/play/ss23882/" target="_blank"
+                                <div class="r-text"><a href="//www.clonebilibili.com/bangumi/play/ss23882/" target="_blank"
                                                        title="智龙迷城" class="t"
                                                        style="-webkit-box-orient: vertical;">智龙迷城</a>
-                                    <p class="update"><a href="//www.bilibili.com/bangumi/play/ep267479/"
+                                    <p class="update"><a href="//www.clonebilibili.com/bangumi/play/ep267479/"
                                                          target="_blank" class="published">第56话</a></p></div>
                             </div>
                             <div class="card-timing-module clearfix card-timing"><a
-                                        href="//www.bilibili.com/bangumi/play/ss26775/" target="_blank" title="八月的棒球甜心"
+                                        href="//www.clonebilibili.com/bangumi/play/ss26775/" target="_blank" title="八月的棒球甜心"
                                         class="pic">
                                     <div class="lazy-img"><img alt="八月的棒球甜心"
                                                                src="//i0.hdslb.com/bfs/bangumi/9495024f7fc52e8f38e16f86b901bfc6d978aee5.jpg@144w_144h.webp">
                                     </div>
                                 </a>
-                                <div class="r-text"><a href="//www.bilibili.com/bangumi/play/ss26775/" target="_blank"
+                                <div class="r-text"><a href="//www.clonebilibili.com/bangumi/play/ss26775/" target="_blank"
                                                        title="八月的棒球甜心" class="t" style="-webkit-box-orient: vertical;">八月的棒球甜心</a>
-                                    <p class="update"><a href="//www.bilibili.com/bangumi/play/ep268155/"
+                                    <p class="update"><a href="//www.clonebilibili.com/bangumi/play/ep268155/"
                                                          target="_blank" class="published">第4话</a></p></div>
                             </div>
                             <div class="card-timing-module clearfix card-timing"><a
-                                        href="//www.bilibili.com/bangumi/play/ss26962/" target="_blank"
+                                        href="//www.clonebilibili.com/bangumi/play/ss26962/" target="_blank"
                                         title="八月的棒球甜心（僅限港澳台地區）" class="pic">
                                     <div class="lazy-img"><img alt="八月的棒球甜心（僅限港澳台地區）"
                                                                src="//i0.hdslb.com/bfs/bangumi/25be603f0d454bbbce27aabca00ee5410a3a1e5f.jpg@144w_144h.webp">
                                     </div>
                                 </a>
-                                <div class="r-text"><a href="//www.bilibili.com/bangumi/play/ss26962/" target="_blank"
+                                <div class="r-text"><a href="//www.clonebilibili.com/bangumi/play/ss26962/" target="_blank"
                                                        title="八月的棒球甜心（僅限港澳台地區）" class="t"
                                                        style="-webkit-box-orient: vertical;">八月的棒球甜心（僅限港澳台地區）</a>
-                                    <p class="update"><a href="//www.bilibili.com/bangumi/play/ep268167/"
+                                    <p class="update"><a href="//www.clonebilibili.com/bangumi/play/ep268167/"
                                                          target="_blank" class="published">第4话</a></p></div>
                             </div>
                             <div class="card-timing-module clearfix card-timing"><a
-                                        href="//www.bilibili.com/bangumi/play/ss26963/" target="_blank"
+                                        href="//www.clonebilibili.com/bangumi/play/ss26963/" target="_blank"
                                         title="進擊的巨人 第三季 Part.2（僅限台灣地區）" class="pic">
                                     <div class="lazy-img"><img alt="進擊的巨人 第三季 Part.2（僅限台灣地區）"
                                                                src="//i0.hdslb.com/bfs/bangumi/f5d1a61085d464e9d494168ec994fcf0594b0ba5.jpg@144w_144h.webp">
                                     </div>
                                 </a>
-                                <div class="r-text"><a href="//www.bilibili.com/bangumi/play/ss26963/" target="_blank"
+                                <div class="r-text"><a href="//www.clonebilibili.com/bangumi/play/ss26963/" target="_blank"
                                                        title="進擊的巨人 第三季 Part.2（僅限台灣地區）" class="t"
                                                        style="-webkit-box-orient: vertical;">進擊的巨人 第三季
                                         Part.2（僅限台灣地區）</a>
-                                    <p class="update"><a href="//www.bilibili.com/bangumi/play/ep268176/"
+                                    <p class="update"><a href="//www.clonebilibili.com/bangumi/play/ep268176/"
                                                          target="_blank" class="published">第13话</a></p></div>
                             </div>
                             <div class="card-timing-module clearfix card-timing"><a
-                                        href="//www.bilibili.com/bangumi/play/ss26777/" target="_blank"
+                                        href="//www.clonebilibili.com/bangumi/play/ss26777/" target="_blank"
                                         title="深夜的超自然公务员" class="pic">
                                     <div class="lazy-img"><img alt="深夜的超自然公务员"
                                                                src="//i0.hdslb.com/bfs/bangumi/81fe8b87acd49e28fbc801b929076a7bdd67f8c8.jpg@144w_144h.webp">
                                     </div>
                                 </a>
-                                <div class="r-text"><a href="//www.bilibili.com/bangumi/play/ss26777/" target="_blank"
+                                <div class="r-text"><a href="//www.clonebilibili.com/bangumi/play/ss26777/" target="_blank"
                                                        title="深夜的超自然公务员" class="t"
                                                        style="-webkit-box-orient: vertical;">深夜的超自然公务员</a>
-                                    <p class="update"><a href="//www.bilibili.com/bangumi/play/ep268140/"
+                                    <p class="update"><a href="//www.clonebilibili.com/bangumi/play/ep268140/"
                                                          target="_blank" class="published">第4话</a></p></div>
                             </div>
                             <div class="card-timing-module clearfix card-timing"><a
-                                        href="//www.bilibili.com/bangumi/play/ss26871/" target="_blank" title="消灭都市"
+                                        href="//www.clonebilibili.com/bangumi/play/ss26871/" target="_blank" title="消灭都市"
                                         class="pic">
                                     <div class="lazy-img"><img alt="消灭都市"
                                                                src="//i0.hdslb.com/bfs/bangumi/e950286f1239c0fd2c69ae5a3ad0f6b43cfe7fb9.jpg@144w_144h.webp">
                                     </div>
                                 </a>
-                                <div class="r-text"><a href="//www.bilibili.com/bangumi/play/ss26871/" target="_blank"
+                                <div class="r-text"><a href="//www.clonebilibili.com/bangumi/play/ss26871/" target="_blank"
                                                        title="消灭都市" class="t"
                                                        style="-webkit-box-orient: vertical;">消灭都市</a>
-                                    <p class="update"><a href="//www.bilibili.com/bangumi/play/ep268128/"
+                                    <p class="update"><a href="//www.clonebilibili.com/bangumi/play/ep268128/"
                                                          target="_blank" class="published">第4话</a></p></div>
                             </div>
                             <div class="card-timing-module clearfix card-timing"><a
-                                        href="//www.bilibili.com/bangumi/play/ss5978/" target="_blank"
+                                        href="//www.clonebilibili.com/bangumi/play/ss5978/" target="_blank"
                                         title="博人传 火影忍者新时代" class="pic">
                                     <div class="lazy-img"><img alt="博人传 火影忍者新时代"
                                                                src="//i0.hdslb.com/bfs/bangumi/3121473d5dd03a9bcccb8490034207e724e731b3.jpg@144w_144h.webp">
                                     </div>
                                 </a>
-                                <div class="r-text"><a href="//www.bilibili.com/bangumi/play/ss5978/" target="_blank"
+                                <div class="r-text"><a href="//www.clonebilibili.com/bangumi/play/ss5978/" target="_blank"
                                                        title="博人传 火影忍者新时代" class="t"
                                                        style="-webkit-box-orient: vertical;">博人传 火影忍者新时代</a>
-                                    <p class="update"><a href="//www.bilibili.com/bangumi/play/ep269896/"
+                                    <p class="update"><a href="//www.clonebilibili.com/bangumi/play/ep269896/"
                                                          target="_blank" class="published">第104话</a></p></div>
                             </div>
                             <div class="card-timing-module clearfix card-timing"><a
-                                        href="//www.bilibili.com/bangumi/play/ss23841/" target="_blank" title="美妙☆频道"
+                                        href="//www.clonebilibili.com/bangumi/play/ss23841/" target="_blank" title="美妙☆频道"
                                         class="pic">
                                     <div class="lazy-img"><img alt="美妙☆频道"
                                                                src="//i0.hdslb.com/bfs/bangumi/5c2f289eac0ec49bc5e6b9483f4191c42ffa2254.jpg@144w_144h.webp">
                                     </div>
                                 </a>
-                                <div class="r-text"><a href="//www.bilibili.com/bangumi/play/ss23841/" target="_blank"
+                                <div class="r-text"><a href="//www.clonebilibili.com/bangumi/play/ss23841/" target="_blank"
                                                        title="美妙☆频道" class="t" style="-webkit-box-orient: vertical;">美妙☆频道</a>
-                                    <p class="update"><a href="//www.bilibili.com/bangumi/play/ep268345/"
+                                    <p class="update"><a href="//www.clonebilibili.com/bangumi/play/ep268345/"
                                                          target="_blank" class="published">第55话</a></p></div>
                             </div>
                             <div class="card-timing-module clearfix card-timing"><a
-                                        href="//www.bilibili.com/bangumi/play/ss25851/" target="_blank" title="爱玩怪兽"
+                                        href="//www.clonebilibili.com/bangumi/play/ss25851/" target="_blank" title="爱玩怪兽"
                                         class="pic">
                                     <div class="lazy-img"><img alt="爱玩怪兽"
                                                                src="//i0.hdslb.com/bfs/bangumi/7cd6c47770dc96e329fecd89f78b012267420c35.jpg@144w_144h.webp">
                                     </div>
                                 </a>
-                                <div class="r-text"><a href="//www.bilibili.com/bangumi/play/ss25851/" target="_blank"
+                                <div class="r-text"><a href="//www.clonebilibili.com/bangumi/play/ss25851/" target="_blank"
                                                        title="爱玩怪兽" class="t"
                                                        style="-webkit-box-orient: vertical;">爱玩怪兽</a>
-                                    <p class="update"><a href="//www.bilibili.com/bangumi/play/ep251569/"
+                                    <p class="update"><a href="//www.clonebilibili.com/bangumi/play/ep251569/"
                                                          target="_blank" class="published">第29话</a></p></div>
                             </div>
                             <div class="card-timing-module clearfix card-timing"><a
-                                        href="//www.bilibili.com/bangumi/play/ss26959/" target="_blank"
+                                        href="//www.clonebilibili.com/bangumi/play/ss26959/" target="_blank"
                                         title="一弦定音！（僅限港澳台地區）" class="pic">
                                     <div class="lazy-img"><img alt="一弦定音！（僅限港澳台地區）"
                                                                src="//i0.hdslb.com/bfs/bangumi/aca017626d464fe992647a016f7837fa49562b05.jpg@144w_144h.webp">
                                     </div>
                                 </a>
-                                <div class="r-text"><a href="//www.bilibili.com/bangumi/play/ss26959/" target="_blank"
+                                <div class="r-text"><a href="//www.clonebilibili.com/bangumi/play/ss26959/" target="_blank"
                                                        title="一弦定音！（僅限港澳台地區）" class="t"
                                                        style="-webkit-box-orient: vertical;">一弦定音！（僅限港澳台地區）</a>
-                                    <p class="update"><a href="//www.bilibili.com/bangumi/play/ep268051/"
+                                    <p class="update"><a href="//www.clonebilibili.com/bangumi/play/ep268051/"
                                                          target="_blank" class="published">第4话</a></p></div>
                             </div>
                             <div class="card-timing-module clearfix card-timing"><a
-                                        href="//www.bilibili.com/bangumi/play/ss26767/" target="_blank" title="我们无法一起学习"
+                                        href="//www.clonebilibili.com/bangumi/play/ss26767/" target="_blank" title="我们无法一起学习"
                                         class="pic">
                                     <div class="lazy-img"><img alt="我们无法一起学习"
                                                                src="//i0.hdslb.com/bfs/bangumi/c2a12ee17389ef928e5ecee2240cf51788a3a7d0.jpg@144w_144h.webp">
                                     </div>
                                 </a>
-                                <div class="r-text"><a href="//www.bilibili.com/bangumi/play/ss26767/" target="_blank"
+                                <div class="r-text"><a href="//www.clonebilibili.com/bangumi/play/ss26767/" target="_blank"
                                                        title="我们无法一起学习" class="t" style="-webkit-box-orient: vertical;">我们无法一起学习</a>
-                                    <p class="update"><a href="//www.bilibili.com/bangumi/play/ep267882/"
+                                    <p class="update"><a href="//www.clonebilibili.com/bangumi/play/ep267882/"
                                                          target="_blank" class="published">第4话</a></p></div>
                             </div>
                             <div class="card-timing-module clearfix card-timing"><a
-                                        href="//www.bilibili.com/bangumi/play/ss26957/" target="_blank"
+                                        href="//www.clonebilibili.com/bangumi/play/ss26957/" target="_blank"
                                         title="我們真的學不來！（僅限台灣地區）" class="pic">
                                     <div class="lazy-img"><img alt="我們真的學不來！（僅限台灣地區）"
                                                                src="//i0.hdslb.com/bfs/bangumi/60197e52cc86a2e721e69a7593460bfcf3f1970d.jpg@144w_144h.webp">
                                     </div>
                                 </a>
-                                <div class="r-text"><a href="//www.bilibili.com/bangumi/play/ss26957/" target="_blank"
+                                <div class="r-text"><a href="//www.clonebilibili.com/bangumi/play/ss26957/" target="_blank"
                                                        title="我們真的學不來！（僅限台灣地區）" class="t"
                                                        style="-webkit-box-orient: vertical;">我們真的學不來！（僅限台灣地區）</a>
-                                    <p class="update"><a href="//www.bilibili.com/bangumi/play/ep268014/"
+                                    <p class="update"><a href="//www.clonebilibili.com/bangumi/play/ep268014/"
                                                          target="_blank" class="published">第4话</a></p></div>
                             </div>
                             <div class="card-timing-module clearfix card-timing"><a
-                                        href="//www.bilibili.com/bangumi/play/ss26801/" target="_blank" title="鬼灭之刃"
+                                        href="//www.clonebilibili.com/bangumi/play/ss26801/" target="_blank" title="鬼灭之刃"
                                         class="pic">
                                     <div class="lazy-img"><img alt="鬼灭之刃"
                                                                src="//i0.hdslb.com/bfs/bangumi/da6820b316c1197cb063107deb061a3ebe58486b.png@144w_144h.webp">
                                     </div>
                                 </a>
-                                <div class="r-text"><a href="//www.bilibili.com/bangumi/play/ss26801/" target="_blank"
+                                <div class="r-text"><a href="//www.clonebilibili.com/bangumi/play/ss26801/" target="_blank"
                                                        title="鬼灭之刃" class="t"
                                                        style="-webkit-box-orient: vertical;">鬼灭之刃</a>
-                                    <p class="update"><a href="//www.bilibili.com/bangumi/play/ep267854/"
+                                    <p class="update"><a href="//www.clonebilibili.com/bangumi/play/ep267854/"
                                                          target="_blank" class="published">第4话</a></p></div>
                             </div>
                             <div class="card-timing-module clearfix card-timing"><a
-                                        href="//www.bilibili.com/bangumi/play/ss26954/" target="_blank"
+                                        href="//www.clonebilibili.com/bangumi/play/ss26954/" target="_blank"
                                         title="鬼滅之刃（僅限台灣地區）" class="pic">
                                     <div class="lazy-img"><img alt="鬼滅之刃（僅限台灣地區）"
                                                                src="//i0.hdslb.com/bfs/bangumi/528a3f895f689dc0866f8ee74bd99ec8cad7864c.jpg@144w_144h.webp">
                                     </div>
                                 </a>
-                                <div class="r-text"><a href="//www.bilibili.com/bangumi/play/ss26954/" target="_blank"
+                                <div class="r-text"><a href="//www.clonebilibili.com/bangumi/play/ss26954/" target="_blank"
                                                        title="鬼滅之刃（僅限台灣地區）" class="t"
                                                        style="-webkit-box-orient: vertical;">鬼滅之刃（僅限台灣地區）</a>
-                                    <p class="update"><a href="//www.bilibili.com/bangumi/play/ep267900/"
+                                    <p class="update"><a href="//www.clonebilibili.com/bangumi/play/ep267900/"
                                                          target="_blank" class="published">第4话</a></p></div>
                             </div>
                             <div class="card-timing-module clearfix card-timing"><a
-                                        href="//www.bilibili.com/bangumi/play/ss26958/" target="_blank"
+                                        href="//www.clonebilibili.com/bangumi/play/ss26958/" target="_blank"
                                         title="MIX（僅限台灣地區）" class="pic">
                                     <div class="lazy-img"><img alt="MIX（僅限台灣地區）"
                                                                src="//i0.hdslb.com/bfs/bangumi/0ed0e38871bfc4e822bac43d85ae745b854e0a14.png@144w_144h.webp">
                                     </div>
                                 </a>
-                                <div class="r-text"><a href="//www.bilibili.com/bangumi/play/ss26958/" target="_blank"
+                                <div class="r-text"><a href="//www.clonebilibili.com/bangumi/play/ss26958/" target="_blank"
                                                        title="MIX（僅限台灣地區）" class="t"
                                                        style="-webkit-box-orient: vertical;">MIX（僅限台灣地區）</a>
-                                    <p class="update"><a href="//www.bilibili.com/bangumi/play/ep268027/"
+                                    <p class="update"><a href="//www.clonebilibili.com/bangumi/play/ep268027/"
                                                          target="_blank" class="published">第4话</a></p></div>
                             </div><!----></div>
                     </div>
@@ -1931,44 +1931,44 @@
                         <div class="rank-list-wrap">
                             <ul class="bangumi-rank-list rank-list"><!---->
                                 <li class="rank-item  highlight"><i class="ri-num">1</i><a
-                                            href="http://www.bilibili.com/bangumi/play/ss26801" target="_blank"
+                                            href="http://www.clonebilibili.com/bangumi/play/ss26801" target="_blank"
                                             title="鬼灭之刃 播放:11861193" class="ri-info-wrap"><p class="ri-title">鬼灭之刃</p>
                                         <span class="ri-total">更新至第4话</span></a></li>
                                 <li class="rank-item  highlight"><i class="ri-num">2</i><a
-                                            href="http://www.bilibili.com/bangumi/play/ss25681" target="_blank"
+                                            href="http://www.clonebilibili.com/bangumi/play/ss25681" target="_blank"
                                             title="JOJO的奇妙冒险 黄金之风 播放:82978647" class="ri-info-wrap"><p class="ri-title">
                                             JOJO的奇妙冒险 黄金之风</p><span class="ri-total">更新至第28话</span></a></li>
                                 <li class="rank-item  highlight"><i class="ri-num">3</i><a
-                                            href="http://www.bilibili.com/bangumi/play/ss26769" target="_blank"
+                                            href="http://www.clonebilibili.com/bangumi/play/ss26769" target="_blank"
                                             title="文豪野犬&nbsp;第三季 播放:5167353" class="ri-info-wrap"><p class="ri-title">
                                             文豪野犬&nbsp;第三季</p><span class="ri-total">更新至第3话</span></a></li>
                                 <li class="rank-item"><i class="ri-num">4</i><a
-                                            href="http://www.bilibili.com/bangumi/play/ss26284" target="_blank"
+                                            href="http://www.clonebilibili.com/bangumi/play/ss26284" target="_blank"
                                             title="盾之勇者成名录 播放:77159798" class="ri-info-wrap"><p class="ri-title">
                                             盾之勇者成名录</p><span class="ri-total">更新至第16话</span></a></li>
                                 <li class="rank-item"><i class="ri-num">5</i><a
-                                            href="http://www.bilibili.com/bangumi/play/ss26870" target="_blank"
+                                            href="http://www.clonebilibili.com/bangumi/play/ss26870" target="_blank"
                                             title="川柳少女 播放:5071521" class="ri-info-wrap"><p class="ri-title">川柳少女</p>
                                         <span class="ri-total">更新至第4话</span></a></li>
                                 <li class="rank-item"><i class="ri-num">6</i><a
-                                            href="http://www.bilibili.com/bangumi/play/ss26767" target="_blank"
+                                            href="http://www.clonebilibili.com/bangumi/play/ss26767" target="_blank"
                                             title="我们无法一起学习 播放:7183271" class="ri-info-wrap"><p class="ri-title">
                                             我们无法一起学习</p><span class="ri-total">更新至第4话</span></a></li>
                                 <li class="rank-item"><i class="ri-num">7</i><a
-                                            href="http://www.bilibili.com/bangumi/play/ss26794" target="_blank"
+                                            href="http://www.clonebilibili.com/bangumi/play/ss26794" target="_blank"
                                             title="贤者之孙 播放:10042139" class="ri-info-wrap"><p class="ri-title">贤者之孙</p>
                                         <span class="ri-total">更新至第3话</span></a></li>
                                 <li class="rank-item"><i class="ri-num">8</i><a
-                                            href="http://www.bilibili.com/bangumi/play/ss26875" target="_blank"
+                                            href="http://www.clonebilibili.com/bangumi/play/ss26875" target="_blank"
                                             title="CAROLE &amp; TUESDAY 播放:5627118" class="ri-info-wrap"><p
                                                 class="ri-title">CAROLE &amp; TUESDAY</p><span
                                                 class="ri-total">更新至第3话</span></a></li>
                                 <li class="rank-item"><i class="ri-num">9</i><a
-                                            href="http://www.bilibili.com/bangumi/play/ss26146" target="_blank"
+                                            href="http://www.clonebilibili.com/bangumi/play/ss26146" target="_blank"
                                             title="多罗罗 播放:68560774" class="ri-info-wrap"><p class="ri-title">多罗罗</p>
                                         <span class="ri-total">更新至第16话</span></a></li>
                                 <li class="rank-item"><i class="ri-num">10</i><a
-                                            href="http://www.bilibili.com/bangumi/play/ss26802" target="_blank"
+                                            href="http://www.clonebilibili.com/bangumi/play/ss26802" target="_blank"
                                             title="皿三昧 播放:2990814" class="ri-info-wrap"><p class="ri-title">皿三昧</p><span
                                                 class="ri-total">更新至第3话</span></a></li>
                             </ul>
@@ -1979,12 +1979,12 @@
                 <div class="new-comers-module l-con">
                     <div class="zone-title">
                         <div class="headline clearfix fj"><i class="icon icon_t icon-bangumi"></i><a
-                                    href="//www.bilibili.com/anime/" class="name">番剧动态</a>
+                                    href="//www.clonebilibili.com/anime/" class="name">番剧动态</a>
                             <div class="bili-tab bili-tab">
                                 <div class="bili-tab-item on">有新动态</div>
                                 <div class="bili-tab-item">最新投稿</div>
                             </div>
-                            <a href="//www.bilibili.com/anime/" target="_blank" class="link-more">
+                            <a href="//www.clonebilibili.com/anime/" target="_blank" class="link-more">
                                 更多
                                 <i class="icon"></i></a>
                             <div class="read-push"><i class="icon icon_read"></i><span
@@ -2151,26 +2151,26 @@
                     <div class="carousel-module">
                         <div class="panel">
                             <ul class="pic" style="width: 300%; margin-left: 0%;">
-                                <li class="scrollx on"><a href="https://www.bilibili.com/bangumi/play/ep265695"
+                                <li class="scrollx on"><a href="https://www.clonebilibili.com/bangumi/play/ep265695"
                                                           target="_blank"><img
                                                 src="//i0.hdslb.com/bfs/bangumi/7bc52b63b865f63753827fb6ce17a2a82ea6c5c5.jpg@260w_268h.webp"
                                                 width="260" height="268"></a><!----></li>
-                                <li class="scrollx off"><a href="https://www.bilibili.com/bangumi/play/ss26875"
+                                <li class="scrollx off"><a href="https://www.clonebilibili.com/bangumi/play/ss26875"
                                                            target="_blank"><img
                                                 src="//i0.hdslb.com/bfs/bangumi/95f9bd6d6d8c0786ed4e1bf0654412e0ccd932f6.jpg@260w_268h.webp"
                                                 width="260" height="268"></a><!----></li>
-                                <li class="scrollx off"><a href="https://www.bilibili.com/bangumi/play/ss26802"
+                                <li class="scrollx off"><a href="https://www.clonebilibili.com/bangumi/play/ss26802"
                                                            target="_blank"><img
                                                 src="//i0.hdslb.com/bfs/bangumi/94ffa901014960370d76da286bd0b9cd81109524.jpg@260w_268h.webp"
                                                 width="260" height="268"></a><!----></li>
                             </ul>
-                            <ul class="title"><a href="https://www.bilibili.com/bangumi/play/ep265695" target="_blank"
+                            <ul class="title"><a href="https://www.clonebilibili.com/bangumi/play/ep265695" target="_blank"
                                                  class="on"><!---->
                                     为文豪野犬干杯！
-                                </a><a href="https://www.bilibili.com/bangumi/play/ss26875" target="_blank" class="">
+                                </a><a href="https://www.clonebilibili.com/bangumi/play/ss26875" target="_blank" class="">
                                     <!---->
                                     骨头社二十周年纪念作品
-                                </a><a href="https://www.bilibili.com/bangumi/play/ss26802" target="_blank" class="">
+                                </a><a href="https://www.clonebilibili.com/bangumi/play/ss26802" target="_blank" class="">
                                     <!---->
                                     几原邦彦最新作品
                                 </a></ul>
@@ -2186,7 +2186,7 @@
                 <div class="top-gc clearfix">
                     <div class="bangumi-timing-module l-con">
                         <div class="headline clearfix"><i class="icon icon_t icon-guochuang"></i><a
-                                    href="//www.bilibili.com/guochuang/" class="name">国创</a>
+                                    href="//www.clonebilibili.com/guochuang/" class="name">国创</a>
                             <div class="bili-tab">
                                 <div class="bili-tab-item on">最新</div>
                                 <div class="bili-tab-item">一</div>
@@ -2197,137 +2197,137 @@
                                 <div class="bili-tab-item">六</div>
                                 <div class="bili-tab-item">日</div>
                             </div>
-                            <a href="//www.bilibili.com/guochuang/timeline/" target="_blank" class="c-clink">
+                            <a href="//www.clonebilibili.com/guochuang/timeline/" target="_blank" class="c-clink">
                                 新番时间表<i class="icon"></i></a></div>
                         <div class="timing-box custom-scrollbar clearfix gc">
                             <div class="card-timing-module clearfix card-timing"><a
-                                        href="//www.bilibili.com/bangumi/play/ss26835/" target="_blank" title="梦幻书院"
+                                        href="//www.clonebilibili.com/bangumi/play/ss26835/" target="_blank" title="梦幻书院"
                                         class="pic">
                                     <div class="lazy-img"><img alt="梦幻书院"
                                                                src="//i0.hdslb.com/bfs/bangumi/fcea45938092cf09c41f2816641f055ae342c975.jpg@144w_144h.webp">
                                     </div>
                                 </a>
-                                <div class="r-text"><a href="//www.bilibili.com/bangumi/play/ss26835/" target="_blank"
+                                <div class="r-text"><a href="//www.clonebilibili.com/bangumi/play/ss26835/" target="_blank"
                                                        title="梦幻书院" class="t"
                                                        style="-webkit-box-orient: vertical;">梦幻书院</a>
-                                    <p class="update"><a href="//www.bilibili.com/bangumi/play/ep269826/"
+                                    <p class="update"><a href="//www.clonebilibili.com/bangumi/play/ep269826/"
                                                          target="_blank" class="published">第6话</a></p></div>
                             </div>
                             <div class="card-timing-module clearfix card-timing"><a
-                                        href="//www.bilibili.com/bangumi/play/ss26312/" target="_blank"
+                                        href="//www.clonebilibili.com/bangumi/play/ss26312/" target="_blank"
                                         title="Gon的旱獭 第三季" class="pic">
                                     <div class="lazy-img"><img alt="Gon的旱獭 第三季"
                                                                src="//i0.hdslb.com/bfs/bangumi/3d7a2fb6eeb34befb64a600ddda8747b2ac80153.jpg@144w_144h.webp">
                                     </div>
                                 </a>
-                                <div class="r-text"><a href="//www.bilibili.com/bangumi/play/ss26312/" target="_blank"
+                                <div class="r-text"><a href="//www.clonebilibili.com/bangumi/play/ss26312/" target="_blank"
                                                        title="Gon的旱獭 第三季" class="t"
                                                        style="-webkit-box-orient: vertical;">Gon的旱獭 第三季</a>
-                                    <p class="update"><a href="//www.bilibili.com/bangumi/play/ep269033/"
+                                    <p class="update"><a href="//www.clonebilibili.com/bangumi/play/ep269033/"
                                                          target="_blank" class="published">第10话</a></p></div>
                             </div>
                             <div class="card-timing-module clearfix card-timing"><a
-                                        href="//www.bilibili.com/bangumi/play/ss26192/" target="_blank" title="拾又之国"
+                                        href="//www.clonebilibili.com/bangumi/play/ss26192/" target="_blank" title="拾又之国"
                                         class="pic">
                                     <div class="lazy-img"><img alt="拾又之国"
                                                                src="//i0.hdslb.com/bfs/bangumi/97b7d68b3424b77f76e68ac4adbb6a540a6e780a.png@144w_144h.webp">
                                     </div>
                                 </a>
-                                <div class="r-text"><a href="//www.bilibili.com/bangumi/play/ss26192/" target="_blank"
+                                <div class="r-text"><a href="//www.clonebilibili.com/bangumi/play/ss26192/" target="_blank"
                                                        title="拾又之国" class="t"
                                                        style="-webkit-box-orient: vertical;">拾又之国</a>
-                                    <p class="update"><a href="//www.bilibili.com/bangumi/play/ep269882/"
+                                    <p class="update"><a href="//www.clonebilibili.com/bangumi/play/ep269882/"
                                                          target="_blank" class="published">第5话</a></p></div>
                             </div>
                             <div class="card-timing-module clearfix card-timing"><a
-                                        href="//www.bilibili.com/bangumi/play/ss26353/" target="_blank" title="拾又之国 日语版"
+                                        href="//www.clonebilibili.com/bangumi/play/ss26353/" target="_blank" title="拾又之国 日语版"
                                         class="pic">
                                     <div class="lazy-img"><img alt="拾又之国 日语版"
                                                                src="//i0.hdslb.com/bfs/bangumi/97b7d68b3424b77f76e68ac4adbb6a540a6e780a.png@144w_144h.webp">
                                     </div>
                                 </a>
-                                <div class="r-text"><a href="//www.bilibili.com/bangumi/play/ss26353/" target="_blank"
+                                <div class="r-text"><a href="//www.clonebilibili.com/bangumi/play/ss26353/" target="_blank"
                                                        title="拾又之国 日语版" class="t" style="-webkit-box-orient: vertical;">拾又之国
                                         日语版</a>
-                                    <p class="update"><a href="//www.bilibili.com/bangumi/play/ep269530/"
+                                    <p class="update"><a href="//www.clonebilibili.com/bangumi/play/ep269530/"
                                                          target="_blank" class="published">第5话</a></p></div>
                             </div>
                             <div class="card-timing-module clearfix card-timing"><a
-                                        href="//www.bilibili.com/bangumi/play/ss26795/" target="_blank"
+                                        href="//www.clonebilibili.com/bangumi/play/ss26795/" target="_blank"
                                         title="没出息的阴阳师一家" class="pic">
                                     <div class="lazy-img"><img alt="没出息的阴阳师一家"
                                                                src="//i0.hdslb.com/bfs/bangumi/3fb565d9edaaf703661e3a502d1d4f7d48145f41.jpg@144w_144h.webp">
                                     </div>
                                 </a>
-                                <div class="r-text"><a href="//www.bilibili.com/bangumi/play/ss26795/" target="_blank"
+                                <div class="r-text"><a href="//www.clonebilibili.com/bangumi/play/ss26795/" target="_blank"
                                                        title="没出息的阴阳师一家" class="t"
                                                        style="-webkit-box-orient: vertical;">没出息的阴阳师一家</a>
-                                    <p class="update"><a href="//www.bilibili.com/bangumi/play/ep270845/"
+                                    <p class="update"><a href="//www.clonebilibili.com/bangumi/play/ep270845/"
                                                          target="_blank" class="published">第1话</a></p></div>
                             </div>
                             <div class="card-timing-module clearfix card-timing"><a
-                                        href="//www.bilibili.com/bangumi/play/ss26020/" target="_blank"
+                                        href="//www.clonebilibili.com/bangumi/play/ss26020/" target="_blank"
                                         title="霹雳魔封（闽南语）" class="pic">
                                     <div class="lazy-img"><img alt="霹雳魔封（闽南语）"
                                                                src="//i0.hdslb.com/bfs/bangumi/f527fd8f0802d7ff72dd243d786592b031ad945e.jpg@144w_144h.webp">
                                     </div>
                                 </a>
-                                <div class="r-text"><a href="//www.bilibili.com/bangumi/play/ss26020/" target="_blank"
+                                <div class="r-text"><a href="//www.clonebilibili.com/bangumi/play/ss26020/" target="_blank"
                                                        title="霹雳魔封（闽南语）" class="t"
                                                        style="-webkit-box-orient: vertical;">霹雳魔封（闽南语）</a>
-                                    <p class="update"><a href="//www.bilibili.com/bangumi/play/ep269751/"
+                                    <p class="update"><a href="//www.clonebilibili.com/bangumi/play/ep269751/"
                                                          target="_blank" class="published">第45话~第46话</a></p></div>
                             </div>
                             <div class="card-timing-module clearfix card-timing"><a
-                                        href="//www.bilibili.com/bangumi/play/ss26021/" target="_blank"
+                                        href="//www.clonebilibili.com/bangumi/play/ss26021/" target="_blank"
                                         title="霹雳魔封（普通话）" class="pic">
                                     <div class="lazy-img"><img alt="霹雳魔封（普通话）"
                                                                src="//i0.hdslb.com/bfs/bangumi/5de5b7c7c74b443a0190e043fe0d56d400fd83aa.jpg@144w_144h.webp">
                                     </div>
                                 </a>
-                                <div class="r-text"><a href="//www.bilibili.com/bangumi/play/ss26021/" target="_blank"
+                                <div class="r-text"><a href="//www.clonebilibili.com/bangumi/play/ss26021/" target="_blank"
                                                        title="霹雳魔封（普通话）" class="t"
                                                        style="-webkit-box-orient: vertical;">霹雳魔封（普通话）</a>
-                                    <p class="update"><a href="//www.bilibili.com/bangumi/play/ep269749/"
+                                    <p class="update"><a href="//www.clonebilibili.com/bangumi/play/ep269749/"
                                                          target="_blank" class="published">第45话~第46话</a></p></div>
                             </div>
                             <div class="card-timing-module clearfix card-timing"><a
-                                        href="//www.bilibili.com/bangumi/play/ss26022/" target="_blank"
+                                        href="//www.clonebilibili.com/bangumi/play/ss26022/" target="_blank"
                                         title="霹雳魔封（普通话免费）" class="pic">
                                     <div class="lazy-img"><img alt="霹雳魔封（普通话免费）"
                                                                src="//i0.hdslb.com/bfs/bangumi/5de5b7c7c74b443a0190e043fe0d56d400fd83aa.jpg@144w_144h.webp">
                                     </div>
                                 </a>
-                                <div class="r-text"><a href="//www.bilibili.com/bangumi/play/ss26022/" target="_blank"
+                                <div class="r-text"><a href="//www.clonebilibili.com/bangumi/play/ss26022/" target="_blank"
                                                        title="霹雳魔封（普通话免费）" class="t"
                                                        style="-webkit-box-orient: vertical;">霹雳魔封（普通话免费）</a>
-                                    <p class="update"><a href="//www.bilibili.com/bangumi/play/ep269753/"
+                                    <p class="update"><a href="//www.clonebilibili.com/bangumi/play/ep269753/"
                                                          target="_blank" class="published">第37话~第38话</a></p></div>
                             </div>
                             <div class="card-timing-module clearfix card-timing"><a
-                                        href="//www.bilibili.com/bangumi/play/ss26311/" target="_blank" title="凹凸世界 第三季"
+                                        href="//www.clonebilibili.com/bangumi/play/ss26311/" target="_blank" title="凹凸世界 第三季"
                                         class="pic">
                                     <div class="lazy-img"><img alt="凹凸世界 第三季"
                                                                src="//i0.hdslb.com/bfs/bangumi/43584a507918e3b4d486399cfc89015455cef091.png@144w_144h.webp">
                                     </div>
                                 </a>
-                                <div class="r-text"><a href="//www.bilibili.com/bangumi/play/ss26311/" target="_blank"
+                                <div class="r-text"><a href="//www.clonebilibili.com/bangumi/play/ss26311/" target="_blank"
                                                        title="凹凸世界 第三季" class="t" style="-webkit-box-orient: vertical;">凹凸世界
                                         第三季</a>
-                                    <p class="update"><a href="//www.bilibili.com/bangumi/play/ep269765/"
+                                    <p class="update"><a href="//www.clonebilibili.com/bangumi/play/ep269765/"
                                                          target="_blank" class="published">第14话</a></p></div>
                             </div>
                             <div class="card-timing-module clearfix card-timing"><a
-                                        href="//www.bilibili.com/bangumi/play/ss27501/" target="_blank"
+                                        href="//www.clonebilibili.com/bangumi/play/ss27501/" target="_blank"
                                         title="大王不高兴 动态漫" class="pic">
                                     <div class="lazy-img"><img alt="大王不高兴 动态漫"
                                                                src="//i0.hdslb.com/bfs/bangumi/7e9ca9b4f3f0d9a4583dd364dd103a9f4cde2852.jpg@144w_144h.webp">
                                     </div>
                                 </a>
-                                <div class="r-text"><a href="//www.bilibili.com/bangumi/play/ss27501/" target="_blank"
+                                <div class="r-text"><a href="//www.clonebilibili.com/bangumi/play/ss27501/" target="_blank"
                                                        title="大王不高兴 动态漫" class="t"
                                                        style="-webkit-box-orient: vertical;">大王不高兴 动态漫</a>
-                                    <p class="update"><a href="//www.bilibili.com/bangumi/play/ep270788/"
+                                    <p class="update"><a href="//www.clonebilibili.com/bangumi/play/ep270788/"
                                                          target="_blank" class="published">第1话~第3话</a></p></div>
                             </div><!----></div>
                     </div>
@@ -2344,23 +2344,23 @@
                         <div class="rank-list-wrap">
                             <ul class="bangumi-rank-list rank-list"><!---->
                                 <li class="rank-item  highlight"><i class="ri-num">1</i><a
-                                            href="http://www.bilibili.com/bangumi/play/ss26795" target="_blank"
+                                            href="http://www.clonebilibili.com/bangumi/play/ss26795" target="_blank"
                                             title="没出息的阴阳师一家 播放:1370151" class="ri-info-wrap"><p class="ri-title">
                                             没出息的阴阳师一家</p><span class="ri-total">更新至第1话</span></a></li>
                                 <li class="rank-item  highlight"><i class="ri-num">2</i><a
-                                            href="http://www.bilibili.com/bangumi/play/ss26311" target="_blank"
+                                            href="http://www.clonebilibili.com/bangumi/play/ss26311" target="_blank"
                                             title="凹凸世界 第三季 播放:23334515" class="ri-info-wrap"><p class="ri-title">凹凸世界
                                             第三季</p><span class="ri-total">更新至第14话</span></a></li>
                                 <li class="rank-item  highlight"><i class="ri-num">3</i><a
-                                            href="http://www.bilibili.com/bangumi/play/ss24608" target="_blank"
+                                            href="http://www.clonebilibili.com/bangumi/play/ss24608" target="_blank"
                                             title="少年歌行 播放:31960638" class="ri-info-wrap"><p class="ri-title">少年歌行</p>
                                         <span class="ri-total">更新至第20话</span></a></li>
                                 <li class="rank-item"><i class="ri-num">4</i><a
-                                            href="http://www.bilibili.com/bangumi/play/ss6402" target="_blank"
+                                            href="http://www.clonebilibili.com/bangumi/play/ss6402" target="_blank"
                                             title="一人之下 第二季 播放:147525156" class="ri-info-wrap"><p class="ri-title">一人之下
                                             第二季</p><span class="ri-total">全24话</span></a></li>
                                 <li class="rank-item"><i class="ri-num">5</i><a
-                                            href="http://www.bilibili.com/bangumi/play/ss24298" target="_blank"
+                                            href="http://www.clonebilibili.com/bangumi/play/ss24298" target="_blank"
                                             title="非人哉 播放:36100983" class="ri-info-wrap"><p class="ri-title">非人哉</p>
                                         <span class="ri-total">更新至第39话</span></a></li>
                             </ul>
@@ -2371,19 +2371,19 @@
                             <div class="carousel-module">
                                 <div class="panel">
                                     <ul class="pic" style="width: 200%; margin-left: -100%;">
-                                        <li class="scrollx off"><a href="https://www.bilibili.com/bangumi/play/ss26312/"
+                                        <li class="scrollx off"><a href="https://www.clonebilibili.com/bangumi/play/ss26312/"
                                                                    target="_blank"><img
                                                         src="//i0.hdslb.com/bfs/bangumi/72c5027bf2b843a69791901c56f3781baa4f61bb.jpg@260w_90h.webp"
                                                         width="260" height="90"></a><!----></li>
-                                        <li class="scrollx on"><a href="https://www.bilibili.com/bangumi/play/ss26192/"
+                                        <li class="scrollx on"><a href="https://www.clonebilibili.com/bangumi/play/ss26192/"
                                                                   target="_blank"><img
                                                         src="//i0.hdslb.com/bfs/bangumi/53167610b59698938af532c8da1c3e058a6a0528.jpg@260w_90h.webp"
                                                         width="260" height="90"></a><!----></li>
                                     </ul>
-                                    <ul class="title"><a href="https://www.bilibili.com/bangumi/play/ss26312/"
+                                    <ul class="title"><a href="https://www.clonebilibili.com/bangumi/play/ss26312/"
                                                          target="_blank" class=""><!---->
                                             Gon的旱獭 第三季
-                                        </a><a href="https://www.bilibili.com/bangumi/play/ss26192/" target="_blank"
+                                        </a><a href="https://www.clonebilibili.com/bangumi/play/ss26192/" target="_blank"
                                                class="on"><!---->
                                             拾又之国
                                         </a></ul>
@@ -2396,12 +2396,12 @@
                 <div class="new-comers-module l-con">
                     <div class="zone-title">
                         <div class="headline clearfix fj"><i class="icon icon_t icon-guochuang"></i><a
-                                    href="//www.bilibili.com/guochuang/" class="name">国产原创相关</a>
+                                    href="//www.clonebilibili.com/guochuang/" class="name">国产原创相关</a>
                             <div class="bili-tab bili-tab">
                                 <div class="bili-tab-item on">有新动态</div>
                                 <div class="bili-tab-item">最新投稿</div>
                             </div>
-                            <a href="//www.bilibili.com/guochuang/" target="_blank" class="link-more">
+                            <a href="//www.clonebilibili.com/guochuang/" target="_blank" class="link-more">
                                 更多
                                 <i class="icon"></i></a>
                             <div class="read-push"><i class="icon icon_read"></i><span class="info"><b>9</b>条新动态</span>
@@ -3782,8 +3782,8 @@
                 <div class="article-comers-module l-con">
                     <div class="zone-title">
                         <div class="headline clearfix"><i class="icon icon_t icon-article"></i><a
-                                    href="//www.bilibili.com/read/home" class="name">专栏</a><a
-                                    href="//www.bilibili.com/read/home" target="_blank" class="link-more">
+                                    href="//www.clonebilibili.com/read/home" class="name">专栏</a><a
+                                    href="//www.clonebilibili.com/read/home" target="_blank" class="link-more">
                                 更多
                                 <i class="icon"></i></a>
                             <div class="read-push"><i class="icon icon_read"></i><span class="info">换一换</span></div>
@@ -3791,11 +3791,11 @@
                     </div>
                     <div class="storey-box clearfix"><!---->
                         <div class="article-card">
-                            <div class="article-cover"><a href="//www.bilibili.com/read/cv2387642/?from=homepage_0"
+                            <div class="article-cover"><a href="//www.clonebilibili.com/read/cv2387642/?from=homepage_0"
                                                           target="_blank">
                                     <div class="lazy-img"><img alt="S9LPL春季赛季后赛 JDGvsWE复盘 视野和战术决定的胜负" src=""></div>
                                 </a></div>
-                            <div class="article-info"><a href="//www.bilibili.com/read/cv2387642/?from=homepage_0"
+                            <div class="article-info"><a href="//www.clonebilibili.com/read/cv2387642/?from=homepage_0"
                                                          target="_blank" class="title">S9LPL春季赛季后赛 JDGvsWE复盘
                                     视野和战术决定的胜负</a>
                                 <div class="data"><span class="view"><i class="icon"></i>3107</span><span
@@ -3805,11 +3805,11 @@
                             </div>
                         </div>
                         <div class="article-card">
-                            <div class="article-cover"><a href="//www.bilibili.com/read/cv2480260/?from=homepage_0"
+                            <div class="article-cover"><a href="//www.clonebilibili.com/read/cv2480260/?from=homepage_0"
                                                           target="_blank">
                                     <div class="lazy-img"><img alt="EA将为我们带来什么样的《命令与征服》？" src=""></div>
                                 </a></div>
-                            <div class="article-info"><a href="//www.bilibili.com/read/cv2480260/?from=homepage_0"
+                            <div class="article-info"><a href="//www.clonebilibili.com/read/cv2480260/?from=homepage_0"
                                                          target="_blank" class="title">EA将为我们带来什么样的《命令与征服》？</a>
                                 <div class="data"><span class="view"><i class="icon"></i>3557</span><span
                                             class="comment"><i class="icon"></i>54</span><span class="up"><a
@@ -3818,11 +3818,11 @@
                             </div>
                         </div>
                         <div class="article-card">
-                            <div class="article-cover"><a href="//www.bilibili.com/read/cv2495251/?from=homepage_0"
+                            <div class="article-cover"><a href="//www.clonebilibili.com/read/cv2495251/?from=homepage_0"
                                                           target="_blank">
                                     <div class="lazy-img"><img alt="“凡先生，你拉面的样子真美”" src=""></div>
                                 </a></div>
-                            <div class="article-info"><a href="//www.bilibili.com/read/cv2495251/?from=homepage_0"
+                            <div class="article-info"><a href="//www.clonebilibili.com/read/cv2495251/?from=homepage_0"
                                                          target="_blank" class="title">“凡先生，你拉面的样子真美”</a>
                                 <div class="data"><span class="view"><i class="icon"></i>314</span><span
                                             class="comment"><i class="icon"></i>1</span><span class="up"><a
@@ -3831,11 +3831,11 @@
                             </div>
                         </div>
                         <div class="article-card">
-                            <div class="article-cover"><a href="//www.bilibili.com/read/cv2352712/?from=homepage_0"
+                            <div class="article-cover"><a href="//www.clonebilibili.com/read/cv2352712/?from=homepage_0"
                                                           target="_blank">
                                     <div class="lazy-img"><img alt="【推理小说杂谈】推理小说如何入门？" src=""></div>
                                 </a></div>
-                            <div class="article-info"><a href="//www.bilibili.com/read/cv2352712/?from=homepage_0"
+                            <div class="article-info"><a href="//www.clonebilibili.com/read/cv2352712/?from=homepage_0"
                                                          target="_blank" class="title">【推理小说杂谈】推理小说如何入门？</a>
                                 <div class="data"><span class="view"><i class="icon"></i>830</span><span
                                             class="comment"><i class="icon"></i>19</span><span class="up"><a
@@ -3844,11 +3844,11 @@
                             </div>
                         </div>
                         <div class="article-card">
-                            <div class="article-cover"><a href="//www.bilibili.com/read/cv2504937/?from=homepage_0"
+                            <div class="article-cover"><a href="//www.clonebilibili.com/read/cv2504937/?from=homepage_0"
                                                           target="_blank">
                                     <div class="lazy-img"><img alt="被特斯拉逼近悬崖的国产新能源" src=""></div>
                                 </a></div>
-                            <div class="article-info"><a href="//www.bilibili.com/read/cv2504937/?from=homepage_0"
+                            <div class="article-info"><a href="//www.clonebilibili.com/read/cv2504937/?from=homepage_0"
                                                          target="_blank" class="title">被特斯拉逼近悬崖的国产新能源</a>
                                 <div class="data"><span class="view"><i class="icon"></i>1337</span><span
                                             class="comment"><i class="icon"></i>8</span><span class="up"><a
@@ -3857,11 +3857,11 @@
                             </div>
                         </div>
                         <div class="article-card">
-                            <div class="article-cover"><a href="//www.bilibili.com/read/cv2407419/?from=homepage_0"
+                            <div class="article-cover"><a href="//www.clonebilibili.com/read/cv2407419/?from=homepage_0"
                                                           target="_blank">
                                     <div class="lazy-img"><img alt="专业解析《只狼》地图设计逻辑" src=""></div>
                                 </a></div>
-                            <div class="article-info"><a href="//www.bilibili.com/read/cv2407419/?from=homepage_0"
+                            <div class="article-info"><a href="//www.clonebilibili.com/read/cv2407419/?from=homepage_0"
                                                          target="_blank" class="title">专业解析《只狼》地图设计逻辑</a>
                                 <div class="data"><span class="view"><i class="icon"></i>1.3万</span><span
                                             class="comment"><i class="icon"></i>67</span><span class="up"><a
@@ -3870,11 +3870,11 @@
                             </div>
                         </div>
                         <div class="article-card">
-                            <div class="article-cover"><a href="//www.bilibili.com/read/cv2406792/?from=homepage_0"
+                            <div class="article-cover"><a href="//www.clonebilibili.com/read/cv2406792/?from=homepage_0"
                                                           target="_blank">
                                     <div class="lazy-img"><img alt="LPL要变天了？RNG和EDG之殇" src=""></div>
                                 </a></div>
-                            <div class="article-info"><a href="//www.bilibili.com/read/cv2406792/?from=homepage_0"
+                            <div class="article-info"><a href="//www.clonebilibili.com/read/cv2406792/?from=homepage_0"
                                                          target="_blank" class="title">LPL要变天了？RNG和EDG之殇</a>
                                 <div class="data"><span class="view"><i class="icon"></i>11.8万</span><span
                                             class="comment"><i class="icon"></i>1409</span><span class="up"><a
@@ -3883,11 +3883,11 @@
                             </div>
                         </div>
                         <div class="article-card">
-                            <div class="article-cover"><a href="//www.bilibili.com/read/cv2504480/?from=homepage_0"
+                            <div class="article-cover"><a href="//www.clonebilibili.com/read/cv2504480/?from=homepage_0"
                                                           target="_blank">
                                     <div class="lazy-img"><img alt="『月刊少女』是怎样炼成的？——一本正经的漫画家育成指南" src=""></div>
                                 </a></div>
-                            <div class="article-info"><a href="//www.bilibili.com/read/cv2504480/?from=homepage_0"
+                            <div class="article-info"><a href="//www.clonebilibili.com/read/cv2504480/?from=homepage_0"
                                                          target="_blank" class="title">『月刊少女』是怎样炼成的？——一本正经的漫画家育成指南</a>
                                 <div class="data"><span class="view"><i class="icon"></i>1.1万</span><span
                                             class="comment"><i class="icon"></i>99</span><span class="up"><a
@@ -3896,11 +3896,11 @@
                             </div>
                         </div>
                         <div class="article-card">
-                            <div class="article-cover"><a href="//www.bilibili.com/read/cv2486180/?from=homepage_0"
+                            <div class="article-cover"><a href="//www.clonebilibili.com/read/cv2486180/?from=homepage_0"
                                                           target="_blank">
                                     <div class="lazy-img"><img alt="靠谱复盘LPL季军赛 TOP失去灵魂FPX轻松获胜#肝帝复盘16#" src=""></div>
                                 </a></div>
-                            <div class="article-info"><a href="//www.bilibili.com/read/cv2486180/?from=homepage_0"
+                            <div class="article-info"><a href="//www.clonebilibili.com/read/cv2486180/?from=homepage_0"
                                                          target="_blank" class="title">靠谱复盘LPL季军赛
                                     TOP失去灵魂FPX轻松获胜#肝帝复盘16#</a>
                                 <div class="data"><span class="view"><i class="icon"></i>1.1万</span><span
@@ -3910,11 +3910,11 @@
                             </div>
                         </div>
                         <div class="article-card">
-                            <div class="article-cover"><a href="//www.bilibili.com/read/cv2393850/?from=homepage_0"
+                            <div class="article-cover"><a href="//www.clonebilibili.com/read/cv2393850/?from=homepage_0"
                                                           target="_blank">
                                     <div class="lazy-img"><img alt="他是温柔本身，而我只向温柔投降。" src=""></div>
                                 </a></div>
-                            <div class="article-info"><a href="//www.bilibili.com/read/cv2393850/?from=homepage_0"
+                            <div class="article-info"><a href="//www.clonebilibili.com/read/cv2393850/?from=homepage_0"
                                                          target="_blank" class="title">他是温柔本身，而我只向温柔投降。</a>
                                 <div class="data"><span class="view"><i class="icon"></i>1271</span><span
                                             class="comment"><i class="icon"></i>2</span><span class="up"><a
@@ -3978,7 +3978,7 @@
                                 </a></li>
                         </ul>
                     </div>
-                    <a href="//www.bilibili.com/read/ranking#type=3" target="_blank" class="more-link">查看更多<i
+                    <a href="//www.clonebilibili.com/read/ranking#type=3" target="_blank" class="more-link">查看更多<i
                                 class="icon icon-arrow-r"></i></a></section>
             </div>
         </div>
@@ -4974,7 +4974,7 @@
              scrollshow="true">
             <div class="l-con">
                 <div class="headline clearfix"><i class="icon icon_t icon-special"></i><a
-                            href="//www.bilibili.com/list/recommend/1.html" class="name">特别推荐</a></div>
+                            href="//www.clonebilibili.com/list/recommend/1.html" class="name">特别推荐</a></div>
                 <div class="storey-box clearfix"><!---->
                     <div class="special-module special"><a href="/video/av49722534/" target="_blank" class="pic">
                             <div class="pic-box">
@@ -5063,8 +5063,8 @@
                 </div>
             </div>
             <div data-id="265703" data-loc-id="31" class="r-con adpos"><a target="_blank"
-                                                                          href="https://www.bilibili.com/v/game/match"
-                                                                          data-target-url="https://www.bilibili.com/v/game/match">
+                                                                          href="https://www.clonebilibili.com/v/game/match"
+                                                                          data-target-url="https://www.clonebilibili.com/v/game/match">
                     <div class="lazy-img"><img alt=""
                                                src="//i0.hdslb.com/bfs/archive/31b8d2617cb8d6b01e98425b7eba39ae9f973c20.png@520w_300h.webp">
                     </div><!----></a></div>
@@ -5110,32 +5110,32 @@
             <ul class="boston-postcards">
                 <li>
                     <div class="tips">bilibili</div>
-                    <div class="cards"><a target="_blank" href="//www.bilibili.com/blackboard/aboutUs.html">关于我们</a>
+                    <div class="cards"><a target="_blank" href="//www.clonebilibili.com/blackboard/aboutUs.html">关于我们</a>
                     </div>
-                    <div class="cards"><a target="_blank" href="//www.bilibili.com/blackboard/contact.html">联系我们</a>
+                    <div class="cards"><a target="_blank" href="//www.clonebilibili.com/blackboard/contact.html">联系我们</a>
                     </div>
-                    <div class="cards"><a target="_blank" href="//www.bilibili.com/blackboard/join.html">加入我们</a></div>
+                    <div class="cards"><a target="_blank" href="//www.clonebilibili.com/blackboard/join.html">加入我们</a></div>
                     <div class="cards"><a target="_blank"
-                                          href="//www.bilibili.com/blackboard/friends-links.html">友情链接</a></div>
+                                          href="//www.clonebilibili.com/blackboard/friends-links.html">友情链接</a></div>
                     <div class="cards"><a target="_blank"
                                           href="//account.bilibili.com/account/official/home">bilibili认证</a></div>
                     <div class="cards"><a target="_blank" href="http://ir.bilibili.com">Investor Relations</a></div>
                 </li>
                 <li>
                     <div class="tips">传送门</div>
-                    <div class="cards"><a target="_blank" href="//www.bilibili.com/blackboard/help.html">帮助中心</a></div>
-                    <div class="cards"><a target="_blank" href="//www.bilibili.com/video/av120040/">高级弹幕</a></div>
+                    <div class="cards"><a target="_blank" href="//www.clonebilibili.com/blackboard/help.html">帮助中心</a></div>
+                    <div class="cards"><a target="_blank" href="//www.clonebilibili.com/video/av120040/">高级弹幕</a></div>
                     <div class="cards"><a target="_blank"
-                                          href="//www.bilibili.com/blackboard/activity_list.html">活动专题页</a></div>
-                    <div class="cards"><a target="_blank" href="//www.bilibili.com/blackboard/copyright.html">侵权申诉</a>
+                                          href="//www.clonebilibili.com/blackboard/activity_list.html">活动专题页</a></div>
+                    <div class="cards"><a target="_blank" href="//www.clonebilibili.com/blackboard/copyright.html">侵权申诉</a>
                     </div>
-                    <div class="cards"><a target="_blank" href="//www.bilibili.com/blackboard/x/act_list/">活动中心</a>
+                    <div class="cards"><a target="_blank" href="//www.clonebilibili.com/blackboard/x/act_list/">活动中心</a>
                     </div>
                     <div class="cards"><a target="_blank" href="http://link.acg.tv">用户反馈论坛</a></div>
                     <div class="cards"><a target="_blank" href="//space.bilibili.com/6823116#/album">壁纸站</a></div>
-                    <div class="cards"><a target="_blank" href="//www.bilibili.com/blackboard/activity-S1jfy69Jz.html">名人堂</a>
+                    <div class="cards"><a target="_blank" href="//www.clonebilibili.com/blackboard/activity-S1jfy69Jz.html">名人堂</a>
                     </div>
-                    <div class="cards"><a target="_blank" href="//www.bilibili.com/basc">专车号服务中心</a></div>
+                    <div class="cards"><a target="_blank" href="//www.clonebilibili.com/basc">专车号服务中心</a></div>
                 </li>
                 <li>
                     <div class="block right"><a target="_blank" href="//app.bilibili.com/">
@@ -5206,8 +5206,8 @@
     </div>
 </div><!-- built files will be auto injected -->
 
-<div style="display:none"><a href="//www.bilibili.com/v/game/match/schedule">赛程</a> <a
-            href="//www.bilibili.com/v/game/match/library">视频库</a></div>
+<div style="display:none"><a href="//www.clonebilibili.com/v/game/match/schedule">赛程</a> <a
+            href="//www.clonebilibili.com/v/game/match/library">视频库</a></div>
 
 
 </body>
