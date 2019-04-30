@@ -11,5 +11,5 @@
 |
 */
 
-Route::get('index', 'IndexController@index');
+Route::get('/', 'IndexController@index')->name('index');
 
