@@ -9,7 +9,6 @@ class IndexController extends Controller
     //
     public function index()
     {
-        dd(config('dynamic.test'));
         $data = [
             'base_info' => [
                 'report_eamil'     => 'test@gmail.com',
